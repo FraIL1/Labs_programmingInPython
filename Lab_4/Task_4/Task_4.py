@@ -4,7 +4,7 @@ class GridGame:
     def __init__(self):
         """ Игра с пустым полем """
         self.cells = [' '] * 9  # Список, представляющий игровое поле 3x3
-        self.current_symbol = 'X'  # Текущий символ игрока (X или O)
+        self.current_symbol = 'X'  # X всегда ходит первым
 
     def display(self):
         """
@@ -22,7 +22,7 @@ class GridGame:
     def make_turn(self, position):
         """ Выполняет ход в указанную позицию """
 
-        idx = position - 1
+        idx = position - 1  # Конвертируем в индекс списка (0-8)
         if self.cells[idx] == ' ':
             self.cells[idx] = self.current_symbol
             return True  # True, если ход выполнен успешно
@@ -45,9 +45,9 @@ class GridGame:
         for line in lines:
             a, b, c = line
             if self.cells[a] == self.cells[b] == self.cells[c] != ' ':
-                return self.cells[a]
+                return self.cells[a]  # Возвращаем символ победителя
 
-        return 'Draw' if ' ' not in self.cells else None
+        return 'Draw' if ' ' not in self.cells else None  # Ничья или игра продолжается
 
 
 def show_instructions():
