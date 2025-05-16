@@ -50,6 +50,7 @@ class GridGame:
         return 'Draw' if ' ' not in self.cells else None  # Ничья или игра продолжается
 
 
+
 def show_instructions():
     print("\nИнструкция:")
     print("Введите число от 1 до 9, смотря на поле:")
