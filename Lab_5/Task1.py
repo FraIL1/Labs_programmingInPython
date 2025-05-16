@@ -9,7 +9,6 @@ x = np.linspace(0, 10, 100)  # np.linspace создает линейное пр�
 y = np.sin(x)
 z = np.cos(x)
 
-
 # строю графики
 plt.figure(figsize=(10, 6))  # создаю окно для графика
 plt.plot(x, y, label='sin(x)', color='blue')  # график sin
