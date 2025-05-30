@@ -1,0 +1,2001 @@
+Name,Age,Score,Group
+Amit,21.0,70.45,"Literary Society, Robotics"
+Tina Ballard,19.0,65.45,"Literary Society, Coding Club"
+Meena,19.0,84.79,Literary Society
+Christopher Morales,23.0,62.26,"Coding Club, Entrepreneurship Cell"
+Siddharth,20.0,97.12,Robotics
+Siddharth,19.0,62.56,Sports Club
+Alicia Dillon,18.0,82.62,"Entrepreneurship Cell, Robotics, Cultural Club"
+Rahul,23.0,97.72,"Literary Society, Cultural Club, Sports Club"
+Richard Rodriguez,18.0,74.15,"Entrepreneurship Cell, Literary Society, Cultural Club"
+Anil,18.0,76.12,"Coding Club, Literary Society, Sports Club"
+Anna Henderson,23.0,73.88,Coding Club
+Neha,23.0,91.85,Literary Society
+Pooja,23.0,99.1,"Coding Club, Robotics, Sports Club"
+Casey Parker,21.0,84.32,"Entrepreneurship Cell, Sports Club"
+Lucas Robinson,20.0,92.43,Sports Club
+Joan Smith,23.0,62.63,"Robotics, Entrepreneurship Cell, Cultural Club"
+Kimberly May,19.0,65.6,"Coding Club, Cultural Club"
+Cody Williams,21.0,75.04,"Robotics, Sports Club, Literary Society"
+Priya,22.0,71.11,Cultural Club
+Pooja,22.0,86.48,"Literary Society, Entrepreneurship Cell"
+Michael Meadows,23.0,70.52,Cultural Club
+Pooja,19.0,65.67,Cultural Club
+Anil,21.0,74.41,"Sports Club, Literary Society, Robotics"
+Neha,21.0,94.13,"Coding Club, Entrepreneurship Cell, Cultural Club"
+Karan,23.0,70.09,Robotics
+Justin Johnson,23.0,72.32,"Cultural Club, Sports Club, Literary Society"
+Rahul,23.0,84.17,"Coding Club, Entrepreneurship Cell"
+Amanda Forbes,20.0,89.66,"Sports Club, Coding Club"
+Autumn Olson,22.0,98.63,"Entrepreneurship Cell, Literary Society, Sports Club"
+Christina Collins,19.0,88.04,Cultural Club
+Michele Hill,21.0,82.59,"Entrepreneurship Cell, Literary Society"
+Robin Johnson,19.0,69.49,"Sports Club, Literary Society, Cultural Club"
+Amy Davies,19.0,86.89,Cultural Club
+Jessica Swanson,23.0,80.13,"Coding Club, Sports Club"
+Divya,18.0,63.66,"Entrepreneurship Cell, Coding Club"
+Vincent Novak,19.0,96.62,"Robotics, Literary Society"
+Anil,19.0,87.38,Coding Club
+Rakhi,19.0,60.23,Coding Club
+Sonal,19.0,96.52,"Entrepreneurship Cell, Coding Club, Robotics"
+Mary Escobar,23.0,71.76,"Coding Club, Literary Society"
+Dr. William Warren,21.0,75.45,"Literary Society, Entrepreneurship Cell"
+Neha,22.0,71.68,"Cultural Club, Robotics, Literary Society"
+Jeffrey Mills,21.0,65.27,"Entrepreneurship Cell, Robotics, Coding Club"
+Tiffany Fry,19.0,72.69,"Cultural Club, Sports Club"
+Vikram,19.0,99.38,"Sports Club, Coding Club"
+Hayden Shannon,20.0,97.77,"Cultural Club, Robotics, Entrepreneurship Cell"
+Ruth Mcneil,18.0,82.46,"Sports Club, Robotics, Literary Society"
+Ronald Rocha,19.0,96.64,"Entrepreneurship Cell, Literary Society, Cultural Club"
+Deborah Rodriguez,19.0,78.21,"Cultural Club, Literary Society, Sports Club"
+Siddharth,23.0,78.09,Cultural Club
+Priya,23.0,60.96,"Literary Society, Robotics, Cultural Club"
+Katie Ford,21.0,66.7,Cultural Club
+Suresh,20.0,74.98,"Robotics, Literary Society, Coding Club"
+Michael Farrell,19.0,91.35,"Cultural Club, Robotics"
+James Barber,23.0,61.73,"Coding Club, Cultural Club, Robotics"
+Rahul,19.0,75.31,Sports Club
+Kavya,18.0,75.32,"Literary Society, Sports Club"
+Ramya,21.0,76.78,"Sports Club, Literary Society, Robotics"
+Anita,21.0,64.56,Cultural Club
+Miranda Zuniga,22.0,85.02,"Literary Society, Cultural Club"
+Suresh,19.0,60.43,"Entrepreneurship Cell, Cultural Club, Sports Club"
+Parker Davis,23.0,96.08,Coding Club
+Pooja,23.0,79.06,"Coding Club, Entrepreneurship Cell, Sports Club"
+Divya,19.0,97.96,Coding Club
+Priya,20.0,85.04,Entrepreneurship Cell
+Ramya,18.0,83.41,"Cultural Club, Sports Club"
+Denise Rose,22.0,86.95,"Entrepreneurship Cell, Literary Society"
+Pooja,22.0,95.82,"Cultural Club, Entrepreneurship Cell, Robotics"
+Samuel Short,18.0,85.61,"Sports Club, Cultural Club, Coding Club"
+Rakesh,22.0,64.73,Coding Club
+Anil,18.0,83.29,"Coding Club, Cultural Club"
+Gregory Brown,23.0,87.49,Literary Society
+Anita,22.0,78.97,Coding Club
+Priya,23.0,69.36,"Cultural Club, Robotics"
+Daniel Davenport,22.0,61.78,"Coding Club, Robotics"
+Justin Flores,18.0,97.74,"Entrepreneurship Cell, Cultural Club"
+Sonal,22.0,75.72,"Entrepreneurship Cell, Sports Club, Coding Club"
+Ronald Burke,22.0,77.5,"Cultural Club, Sports Club"
+Scott Prince,20.0,79.02,"Coding Club, Entrepreneurship Cell"
+Priya,21.0,95.25,Cultural Club
+Teresa Wilson,20.0,86.8,Cultural Club
+John Proctor,21.0,90.54,"Coding Club, Literary Society, Entrepreneurship Cell"
+Rahul,23.0,86.02,Cultural Club
+Pooja,21.0,89.0,"Cultural Club, Sports Club"
+Sonal,21.0,84.32,"Entrepreneurship Cell, Sports Club"
+Sonal,23.0,60.96,"Literary Society, Robotics, Cultural Club"
+Rakesh,21.0,84.97,Coding Club
+Ms. Katherine Taylor MD,18.0,67.19,Cultural Club
+Joseph Romero,22.0,85.66,Coding Club
+Divya,20.0,71.33,"Robotics, Sports Club"
+Anita,18.0,90.07,"Entrepreneurship Cell, Literary Society"
+Suresh,19.0,89.69,"Entrepreneurship Cell, Sports Club"
+Ana Hill,23.0,92.0,"Cultural Club, Sports Club, Coding Club"
+Meghan Cisneros,21.0,73.57,"Sports Club, Literary Society, Coding Club"
+Ramya,22.0,75.66,"Entrepreneurship Cell, Robotics, Coding Club"
+Ramya,20.0,97.24,"Coding Club, Robotics, Sports Club"
+Andrea Preston,18.0,70.19,Robotics
+Siddharth,23.0,94.74,Sports Club
+Anita,21.0,75.45,"Literary Society, Entrepreneurship Cell"
+Ramya,22.0,61.4,"Coding Club, Literary Society"
+Susan Larson,21.0,63.96,"Entrepreneurship Cell, Literary Society"
+Bailey Charles,21.0,94.59,"Sports Club, Coding Club, Robotics"
+Benjamin Frost,18.0,70.7,"Sports Club, Cultural Club, Coding Club"
+Ravi,23.0,73.59,"Entrepreneurship Cell, Robotics, Coding Club"
+Ashley Hicks,23.0,83.07,Sports Club
+Dawn Little,20.0,81.67,"Entrepreneurship Cell, Robotics, Sports Club"
+David Reese,21.0,63.31,"Sports Club, Robotics, Entrepreneurship Cell"
+Kurt Hurley,22.0,64.94,"Cultural Club, Coding Club"
+Rhonda Martinez,19.0,75.54,"Sports Club, Literary Society"
+Matthew Sweeney,22.0,66.5,"Cultural Club, Sports Club"
+Jose Griffin,19.0,86.73,Sports Club
+Priya,19.0,85.45,"Robotics, Literary Society"
+Divya,21.0,71.65,"Cultural Club, Robotics, Literary Society"
+Anita,21.0,90.54,"Coding Club, Literary Society, Entrepreneurship Cell"
+Manuel Mccullough,20.0,73.64,"Coding Club, Entrepreneurship Cell, Literary Society"
+Jennifer Velasquez,20.0,80.37,"Literary Society, Coding Club, Robotics"
+Vikram,21.0,79.1,Cultural Club
+Richard Hunt,18.0,61.91,"Coding Club, Robotics, Sports Club"
+Bryan Rhodes,23.0,98.79,Literary Society
+Rakhi,21.0,67.47,"Literary Society, Entrepreneurship Cell"
+Kavya,21.0,86.43,"Literary Society, Coding Club, Robotics"
+Anil,18.0,75.04,"Cultural Club, Sports Club, Robotics"
+Kavya,20.0,62.68,Robotics
+Jason Hayes,20.0,60.72,"Sports Club, Robotics, Literary Society"
+Michele Williams,19.0,79.11,"Sports Club, Literary Society, Coding Club"
+Vikram,21.0,90.38,Entrepreneurship Cell
+Brenda Collins,18.0,84.22,"Entrepreneurship Cell, Sports Club"
+Jessica Lee,22.0,73.48,Cultural Club
+Ravi,19.0,83.45,"Sports Club, Literary Society"
+Brian Martin,18.0,74.19,Literary Society
+Rakhi,18.0,89.46,"Coding Club, Robotics"
+Anil,23.0,75.79,"Robotics, Literary Society"
+Robert Grant,20.0,95.83,Robotics
+Carol Martinez,18.0,89.14,Robotics
+Mr. Justin King,22.0,64.01,"Robotics, Sports Club"
+Anil,19.0,88.73,"Robotics, Coding Club"
+Divya,21.0,79.1,Cultural Club
+Anil,18.0,81.33,"Sports Club, Coding Club"
+Meena,21.0,79.1,Cultural Club
+Sonal,19.0,82.6,"Entrepreneurship Cell, Coding Club, Cultural Club"
+Divya,21.0,79.1,Cultural Club
+Sarah Joseph,21.0,82.13,Entrepreneurship Cell
+Arjun,22.0,67.75,"Robotics, Literary Society"
+Hailey Harrison,22.0,64.14,"Sports Club, Robotics"
+Anita,18.0,61.6,Robotics
+Patricia Johnson,23.0,78.25,"Entrepreneurship Cell, Coding Club, Robotics"
+Mike Maxwell,19.0,62.56,Sports Club
+Rakesh,19.0,68.62,Entrepreneurship Cell
+Sandra Drake,22.0,60.33,Robotics
+Daniel Holt,22.0,77.04,"Entrepreneurship Cell, Coding Club, Cultural Club"
+Amit,18.0,81.33,"Sports Club, Coding Club"
+Michael Mills,20.0,78.24,"Entrepreneurship Cell, Coding Club, Cultural Club"
+Dustin Nichols,19.0,79.23,"Literary Society, Entrepreneurship Cell"
+Rahul,23.0,78.25,"Entrepreneurship Cell, Coding Club, Robotics"
+Katie Martinez,22.0,62.36,"Entrepreneurship Cell, Coding Club"
+Jerry Wheeler,21.0,72.88,"Robotics, Cultural Club, Literary Society"
+Melissa Williams,18.0,79.62,"Coding Club, Entrepreneurship Cell"
+Karan,21.0,89.66,Literary Society
+Melissa Mcfarland,23.0,86.9,"Literary Society, Cultural Club"
+Priya,18.0,96.22,"Sports Club, Literary Society"
+Breanna Rivas,18.0,78.43,"Coding Club, Robotics, Entrepreneurship Cell"
+Louis Green,20.0,93.69,Coding Club
+Raymond Jefferson,19.0,85.52,"Cultural Club, Entrepreneurship Cell"
+Rakhi,23.0,80.41,Entrepreneurship Cell
+Anita,20.0,73.39,Literary Society
+Kavya,18.0,82.59,"Entrepreneurship Cell, Robotics, Cultural Club"
+Neha,22.0,98.54,"Cultural Club, Entrepreneurship Cell, Sports Club"
+Rahul,18.0,64.11,"Robotics, Coding Club, Cultural Club"
+Zachary Schmidt,20.0,97.41,"Cultural Club, Entrepreneurship Cell"
+Amit,21.0,61.47,"Robotics, Cultural Club"
+Kavya,21.0,65.55,"Entrepreneurship Cell, Sports Club"
+Mary Jackson,19.0,80.6,Literary Society
+Kavya,19.0,90.3,"Entrepreneurship Cell, Cultural Club"
+Rahul,21.0,64.23,"Literary Society, Robotics, Cultural Club"
+Jason Hart,19.0,98.39,Sports Club
+Rakhi,22.0,95.82,"Cultural Club, Entrepreneurship Cell, Robotics"
+Mr. Daniel Martin,21.0,86.43,"Literary Society, Coding Club, Robotics"
+Amit,20.0,65.35,Entrepreneurship Cell
+Andrea Harrison,20.0,67.47,Literary Society
+Sonal,22.0,64.94,"Cultural Club, Coding Club"
+Ravi,18.0,60.53,"Literary Society, Robotics"
+Kristy Smith,23.0,99.08,"Entrepreneurship Cell, Cultural Club"
+Sonal,19.0,69.59,Coding Club
+Meena,19.0,80.6,Literary Society
+Austin Walker,20.0,78.34,"Coding Club, Sports Club, Literary Society"
+Shannon Joseph,21.0,79.1,Cultural Club
+Karan,22.0,95.9,"Sports Club, Entrepreneurship Cell, Coding Club"
+Meena,18.0,90.39,Entrepreneurship Cell
+Rahul,23.0,79.06,"Coding Club, Entrepreneurship Cell, Sports Club"
+Arjun,21.0,89.0,"Cultural Club, Sports Club"
+Ryan Parker,18.0,79.88,"Coding Club, Cultural Club, Literary Society"
+Denise Whitehead,23.0,93.35,"Sports Club, Coding Club, Literary Society"
+Pooja,18.0,64.11,"Robotics, Coding Club, Cultural Club"
+Daniel Taylor,18.0,60.53,"Literary Society, Robotics"
+Angel Ellis,19.0,74.35,"Literary Society, Coding Club, Robotics"
+Raymond Chapman,23.0,73.59,"Entrepreneurship Cell, Robotics, Coding Club"
+Pooja,18.0,70.75,"Robotics, Cultural Club, Sports Club"
+Ellen Wright,20.0,63.29,"Sports Club, Robotics"
+Daniel Schneider,18.0,93.96,Sports Club
+Siddharth,21.0,67.17,"Robotics, Cultural Club"
+Rakesh,20.0,73.64,"Coding Club, Entrepreneurship Cell, Literary Society"
+Brandon Hamilton,23.0,81.77,"Literary Society, Entrepreneurship Cell, Robotics"
+Briana Murray,21.0,68.05,"Cultural Club, Entrepreneurship Cell, Robotics"
+Ashley Parrish,22.0,61.68,"Robotics, Entrepreneurship Cell"
+Dawn Underwood,18.0,78.56,"Literary Society, Sports Club, Robotics"
+Ryan Sanchez,19.0,70.78,"Robotics, Sports Club"
+Anil,21.0,81.52,"Robotics, Entrepreneurship Cell"
+Anil,19.0,94.04,Coding Club
+Divya,20.0,77.43,"Literary Society, Sports Club, Robotics"
+Lisa Hernandez,20.0,74.98,"Robotics, Literary Society, Coding Club"
+Divya,21.0,76.52,"Robotics, Literary Society"
+Rita Keith,21.0,68.72,"Sports Club, Cultural Club, Coding Club"
+Howard Norman,23.0,60.04,Literary Society
+Regina Diaz,21.0,62.32,"Entrepreneurship Cell, Sports Club"
+Joseph Park,19.0,96.39,"Cultural Club, Sports Club, Robotics"
+Rahul,23.0,93.37,"Robotics, Sports Club, Literary Society"
+Divya,23.0,71.18,"Robotics, Coding Club, Cultural Club"
+Hannah Ramos,21.0,89.49,Sports Club
+Kimberly May,19.0,99.38,"Sports Club, Coding Club"
+Ramya,19.0,93.99,"Coding Club, Robotics"
+Christina Brooks,18.0,82.59,"Entrepreneurship Cell, Robotics, Cultural Club"
+Jason Lynn Jr.,23.0,99.8,"Entrepreneurship Cell, Sports Club, Literary Society"
+Alex Willis,22.0,69.89,"Literary Society, Coding Club"
+Amit,23.0,99.85,"Entrepreneurship Cell, Literary Society, Sports Club"
+Vikram,23.0,69.94,"Cultural Club, Robotics"
+Siddharth,21.0,63.18,Sports Club
+Brenda Hinton,19.0,72.05,"Sports Club, Coding Club"
+Anthony Gray,19.0,93.24,"Sports Club, Entrepreneurship Cell"
+Suresh,21.0,75.0,"Coding Club, Entrepreneurship Cell"
+Daniel Shields,23.0,65.59,"Sports Club, Robotics"
+Anita,22.0,64.46,Coding Club
+Brian Bruce,18.0,71.33,"Robotics, Cultural Club, Literary Society"
+Rahul,19.0,90.2,Cultural Club
+Pooja,22.0,73.83,"Cultural Club, Robotics"
+Neha,23.0,93.37,"Robotics, Sports Club, Literary Society"
+Ashley Smith,21.0,84.97,Coding Club
+Anil,21.0,74.41,"Sports Club, Literary Society, Robotics"
+Cheryl Lopez,23.0,90.18,"Coding Club, Literary Society, Sports Club"
+Rahul,20.0,95.58,"Sports Club, Coding Club"
+Jason Herrera,23.0,71.6,Entrepreneurship Cell
+Brittany Stevens,23.0,69.0,"Entrepreneurship Cell, Coding Club"
+Karan,21.0,73.54,Coding Club
+Robert Jarvis,19.0,95.62,"Sports Club, Robotics, Entrepreneurship Cell"
+Mrs. Heather Edwards DVM,22.0,84.13,Literary Society
+Anil,21.0,73.41,"Literary Society, Robotics, Sports Club"
+Stephen Sanchez,19.0,75.64,"Cultural Club, Entrepreneurship Cell, Coding Club"
+Katherine Galloway,22.0,93.75,Entrepreneurship Cell
+Meena,21.0,72.84,"Literary Society, Entrepreneurship Cell, Sports Club"
+William Mendez,18.0,89.6,Cultural Club
+Anil,18.0,62.79,Cultural Club
+Priya,23.0,95.82,Cultural Club
+Emma Reed,23.0,67.38,"Cultural Club, Entrepreneurship Cell, Literary Society"
+Meena,21.0,70.83,"Cultural Club, Literary Society"
+Adam Taylor,18.0,62.4,"Cultural Club, Robotics, Coding Club"
+Rahul,23.0,99.8,"Entrepreneurship Cell, Sports Club, Literary Society"
+Vikram,21.0,69.03,"Robotics, Entrepreneurship Cell"
+William Moreno,23.0,86.2,Robotics
+John Lynch,23.0,84.81,"Robotics, Coding Club"
+Divya,20.0,85.39,"Coding Club, Entrepreneurship Cell, Robotics"
+Meena,22.0,62.5,"Sports Club, Robotics, Literary Society"
+Kevin Pena,22.0,95.15,"Literary Society, Sports Club, Cultural Club"
+Arjun,21.0,95.6,"Coding Club, Literary Society, Sports Club"
+Taylor Heath,18.0,83.37,"Cultural Club, Literary Society"
+Siddharth,23.0,76.12,"Literary Society, Sports Club, Cultural Club"
+Anil,20.0,60.28,Robotics
+Divya,21.0,77.13,"Entrepreneurship Cell, Literary Society"
+Emily Bailey,19.0,70.6,"Entrepreneurship Cell, Robotics"
+Leslie Kane,22.0,74.76,"Robotics, Sports Club"
+Carlos King,20.0,89.07,"Literary Society, Sports Club, Cultural Club"
+Neha,22.0,84.13,Literary Society
+Ravi,18.0,70.1,"Cultural Club, Robotics"
+Amit,22.0,68.08,"Literary Society, Entrepreneurship Cell, Coding Club"
+Jose Ramirez,18.0,78.54,"Coding Club, Cultural Club"
+Arjun,23.0,79.06,"Coding Club, Entrepreneurship Cell, Sports Club"
+Arjun,22.0,79.41,Entrepreneurship Cell
+Divya,21.0,76.28,"Robotics, Entrepreneurship Cell"
+Barbara Todd,19.0,85.51,"Entrepreneurship Cell, Robotics"
+Ruben Price,21.0,61.1,"Cultural Club, Entrepreneurship Cell, Sports Club"
+Anil,18.0,78.54,"Coding Club, Cultural Club"
+Nicole Parrish,21.0,95.6,"Coding Club, Literary Society, Sports Club"
+Sonal,21.0,84.72,Cultural Club
+Rakhi,21.0,76.78,"Sports Club, Literary Society, Robotics"
+Seth Matthews,18.0,90.39,Entrepreneurship Cell
+Karan,23.0,73.01,"Coding Club, Literary Society, Cultural Club"
+Siddharth,19.0,88.38,Entrepreneurship Cell
+Sandra Aguilar,23.0,73.37,"Cultural Club, Sports Club, Literary Society"
+Amanda Jones,21.0,89.22,Coding Club
+Neha,21.0,74.41,"Sports Club, Literary Society, Robotics"
+Natalie Lambert,22.0,98.26,"Sports Club, Robotics"
+Samantha Pollard,22.0,75.59,"Literary Society, Robotics, Coding Club"
+Rahul,23.0,84.81,"Robotics, Coding Club"
+Rakhi,20.0,66.62,Cultural Club
+Vikram,23.0,61.4,"Cultural Club, Robotics, Coding Club"
+Siddharth,22.0,69.89,"Literary Society, Coding Club"
+Nicholas Costa,22.0,68.27,"Coding Club, Sports Club, Entrepreneurship Cell"
+Eric Ferguson,18.0,70.75,"Robotics, Cultural Club, Sports Club"
+Kurt Leonard,18.0,69.01,"Cultural Club, Sports Club"
+Rahul,23.0,89.24,"Coding Club, Sports Club, Literary Society"
+Rahul,20.0,77.43,"Literary Society, Sports Club, Robotics"
+Mr. Richard Knight PhD,19.0,77.89,Coding Club
+Brian Turner,19.0,96.13,"Literary Society, Cultural Club, Sports Club"
+Jason Bentley,18.0,65.18,"Entrepreneurship Cell, Robotics, Sports Club"
+Amit,22.0,60.26,"Literary Society, Robotics"
+Meena,21.0,70.45,"Literary Society, Robotics"
+Mason Lewis,18.0,76.4,"Literary Society, Entrepreneurship Cell, Sports Club"
+Rahul,18.0,87.66,"Literary Society, Sports Club, Cultural Club"
+Ramya,18.0,77.85,"Sports Club, Entrepreneurship Cell, Coding Club"
+Anil,18.0,76.12,"Coding Club, Literary Society, Sports Club"
+James Nelson,19.0,76.18,"Robotics, Cultural Club, Literary Society"
+Joseph Martinez,19.0,88.33,Robotics
+Neha,21.0,67.17,"Robotics, Cultural Club"
+Rakhi,20.0,66.09,Robotics
+Arjun,23.0,69.0,"Entrepreneurship Cell, Coding Club"
+Randy Barr,19.0,84.79,Literary Society
+Rakesh,22.0,89.83,"Coding Club, Robotics, Literary Society"
+Juan Greene,20.0,94.71,Entrepreneurship Cell
+Vikram,23.0,62.65,"Sports Club, Cultural Club"
+Priya,20.0,67.03,"Coding Club, Robotics"
+Ramya,21.0,79.66,"Entrepreneurship Cell, Literary Society, Coding Club"
+Arjun,19.0,70.6,"Entrepreneurship Cell, Robotics"
+Sarah Moore,19.0,83.37,"Coding Club, Literary Society, Sports Club"
+Pooja,23.0,66.73,"Entrepreneurship Cell, Coding Club"
+Mark Mccall,19.0,80.69,"Cultural Club, Literary Society, Entrepreneurship Cell"
+Donna Hendricks DDS,22.0,92.82,"Entrepreneurship Cell, Cultural Club, Sports Club"
+Joseph Carney,18.0,87.31,"Literary Society, Robotics, Entrepreneurship Cell"
+David Kelly,21.0,71.69,"Literary Society, Robotics"
+Karan,23.0,60.58,Robotics
+Sabrina Barnes,19.0,92.43,"Coding Club, Sports Club"
+Priya,22.0,84.05,Coding Club
+Joshua Roberts,22.0,79.3,Robotics
+Michelle Miller,19.0,68.62,Entrepreneurship Cell
+Rebecca Yu,19.0,61.61,Coding Club
+Anil,21.0,63.31,"Sports Club, Robotics, Entrepreneurship Cell"
+Patrick Yang,20.0,75.89,Entrepreneurship Cell
+Mikayla Silva,18.0,77.75,Cultural Club
+Kavya,18.0,72.13,"Sports Club, Literary Society"
+Norman Gibbs,20.0,91.9,Robotics
+Sandra Scott,21.0,71.14,Coding Club
+Anita,22.0,60.04,"Robotics, Entrepreneurship Cell"
+Rakesh,22.0,75.66,"Entrepreneurship Cell, Robotics, Coding Club"
+Ramya,18.0,65.82,"Robotics, Sports Club"
+Phillip Berry,19.0,66.88,"Literary Society, Sports Club"
+Anil,22.0,63.39,"Sports Club, Cultural Club, Robotics"
+Michael Thompson,19.0,88.73,"Robotics, Coding Club"
+Gregory Franco,18.0,89.93,"Literary Society, Entrepreneurship Cell, Robotics"
+Siddharth,23.0,65.54,Sports Club
+William Evans,23.0,77.21,"Sports Club, Coding Club"
+Divya,21.0,63.35,"Coding Club, Cultural Club, Entrepreneurship Cell"
+Neha,21.0,78.31,Literary Society
+Kimberly Smith,23.0,94.48,"Literary Society, Robotics, Cultural Club"
+Gregory Matthews,21.0,79.66,"Entrepreneurship Cell, Literary Society, Coding Club"
+Carol Ellis,20.0,73.45,"Entrepreneurship Cell, Robotics"
+Rakesh,23.0,88.84,"Robotics, Literary Society"
+Pooja,18.0,79.98,"Robotics, Literary Society"
+Joshua Gill,18.0,75.04,"Cultural Club, Sports Club, Robotics"
+David Williams,22.0,95.9,"Sports Club, Entrepreneurship Cell, Coding Club"
+Rahul,18.0,90.11,"Literary Society, Robotics"
+Rahul,21.0,91.45,Robotics
+Kavya,20.0,63.54,Coding Club
+Pooja,18.0,98.98,Sports Club
+Ashley Greer PhD,19.0,68.61,Coding Club
+Monica Gallagher,22.0,61.42,Sports Club
+Matthew Baker,18.0,71.87,Coding Club
+Jesse Santiago,21.0,89.0,"Cultural Club, Sports Club"
+Michael Holloway,20.0,73.52,Robotics
+Amy Garcia,20.0,69.78,"Cultural Club, Literary Society"
+Karan,21.0,95.6,"Coding Club, Literary Society, Sports Club"
+John Harris,23.0,69.94,"Cultural Club, Robotics"
+Arjun,18.0,60.53,"Sports Club, Robotics, Coding Club"
+Holly Valentine,19.0,61.09,"Literary Society, Robotics, Coding Club"
+Anita,21.0,92.29,"Sports Club, Coding Club"
+Pooja,19.0,65.99,"Entrepreneurship Cell, Literary Society, Sports Club"
+Alexander Lee,23.0,74.06,"Literary Society, Sports Club"
+Anil,22.0,85.67,"Entrepreneurship Cell, Literary Society"
+Kavya,22.0,96.01,"Literary Society, Cultural Club"
+Kavya,19.0,80.5,"Robotics, Coding Club, Cultural Club"
+Kathleen Cohen,21.0,83.42,"Entrepreneurship Cell, Literary Society"
+Arjun,18.0,75.09,"Sports Club, Cultural Club"
+Ramya,18.0,71.84,"Sports Club, Cultural Club"
+Arjun,22.0,84.05,Coding Club
+Ravi,19.0,98.66,"Cultural Club, Entrepreneurship Cell"
+Steven Washington,23.0,88.66,"Cultural Club, Sports Club, Coding Club"
+Ashley Davis,18.0,61.25,"Coding Club, Robotics, Sports Club"
+Ramya,22.0,92.31,"Sports Club, Literary Society"
+Divya,21.0,67.47,"Literary Society, Entrepreneurship Cell"
+Lawrence Wilkinson,22.0,98.78,"Coding Club, Sports Club, Cultural Club"
+Laura Diaz,22.0,99.03,"Literary Society, Cultural Club, Entrepreneurship Cell"
+Rahul,23.0,88.3,"Robotics, Entrepreneurship Cell, Coding Club"
+Suzanne Jones,20.0,64.15,"Coding Club, Robotics"
+Neha,23.0,98.79,Literary Society
+Priya,23.0,88.3,"Robotics, Entrepreneurship Cell, Coding Club"
+Suresh,22.0,99.03,"Literary Society, Cultural Club, Entrepreneurship Cell"
+Tiffany Murray,23.0,88.09,Entrepreneurship Cell
+Lisa Stanley,19.0,98.92,Literary Society
+Scott Sanchez,18.0,89.39,"Cultural Club, Sports Club, Robotics"
+Kristin Black,19.0,72.08,"Cultural Club, Coding Club, Sports Club"
+Amit,23.0,66.73,"Entrepreneurship Cell, Coding Club"
+Priya,21.0,89.66,Literary Society
+Sandy Stephenson,18.0,73.66,Literary Society
+Timothy Mathews,20.0,72.53,Coding Club
+Jocelyn Sharp,18.0,71.32,Robotics
+Sabrina Briggs,20.0,86.17,"Entrepreneurship Cell, Robotics"
+Patricia Todd,20.0,89.94,"Literary Society, Coding Club, Robotics"
+Angela Vasquez,19.0,84.92,"Sports Club, Coding Club, Entrepreneurship Cell"
+Aaron Arnold Jr.,20.0,98.41,"Sports Club, Cultural Club, Coding Club"
+Sonal,19.0,62.4,"Coding Club, Entrepreneurship Cell, Sports Club"
+Ramya,22.0,62.5,"Sports Club, Robotics, Literary Society"
+Kathleen Mays,22.0,97.91,Cultural Club
+Kavya,23.0,79.06,"Coding Club, Entrepreneurship Cell, Sports Club"
+Rakhi,21.0,75.0,"Coding Club, Entrepreneurship Cell"
+William Jackson,21.0,92.29,"Sports Club, Coding Club"
+Tina Fleming,20.0,76.59,Entrepreneurship Cell
+Vikram,22.0,60.77,"Sports Club, Robotics"
+David Moreno,19.0,96.52,"Entrepreneurship Cell, Coding Club, Robotics"
+Larry Dixon,20.0,85.04,Entrepreneurship Cell
+Rahul,18.0,62.4,"Cultural Club, Robotics, Coding Club"
+Christopher Lewis,20.0,93.92,Entrepreneurship Cell
+Jaclyn Moore,19.0,95.76,"Entrepreneurship Cell, Cultural Club, Coding Club"
+Heather Sanders,20.0,69.28,Coding Club
+Sonal,19.0,70.26,"Cultural Club, Entrepreneurship Cell"
+Samuel Ruiz,20.0,78.01,Robotics
+Chloe Tran,23.0,61.27,"Entrepreneurship Cell, Coding Club, Literary Society"
+Rakesh,22.0,85.02,Cultural Club
+Melissa Martin,22.0,86.0,"Sports Club, Robotics, Coding Club"
+Rahul,21.0,99.96,"Literary Society, Entrepreneurship Cell"
+Priya,20.0,89.66,"Sports Club, Coding Club"
+Amit,19.0,69.59,Coding Club
+Pooja,20.0,91.76,Entrepreneurship Cell
+Karan,21.0,72.84,"Literary Society, Entrepreneurship Cell, Sports Club"
+Neha,21.0,77.43,"Robotics, Entrepreneurship Cell"
+Juan Brown,21.0,81.11,"Sports Club, Literary Society, Robotics"
+Meena,21.0,77.94,"Cultural Club, Coding Club"
+Arjun,19.0,70.69,"Literary Society, Coding Club"
+Barry Scott,21.0,87.92,"Sports Club, Literary Society, Entrepreneurship Cell"
+Rakhi,23.0,99.88,"Entrepreneurship Cell, Sports Club"
+Karan,21.0,75.63,"Sports Club, Coding Club, Robotics"
+Siddharth,22.0,61.81,"Coding Club, Sports Club"
+Anna Evans,18.0,98.98,Sports Club
+Lori Simmons,22.0,92.51,"Sports Club, Robotics"
+Anil,21.0,92.3,"Literary Society, Coding Club, Cultural Club"
+Willie Henry,19.0,97.27,"Literary Society, Robotics"
+Susan Turner,20.0,66.09,Robotics
+Sonal,19.0,70.26,"Cultural Club, Entrepreneurship Cell"
+Donald Ellis,20.0,76.71,Literary Society
+Priya,20.0,72.73,"Coding Club, Sports Club"
+Sierra Vasquez MD,22.0,72.22,Literary Society
+Jeffery Pierce,18.0,72.11,Cultural Club
+Kavya,22.0,83.72,"Entrepreneurship Cell, Sports Club"
+Jonathan Moreno,21.0,65.93,Coding Club
+Ravi,21.0,68.69,"Cultural Club, Coding Club"
+Bobby Williams MD,21.0,69.47,Literary Society
+Siddharth,22.0,62.36,"Entrepreneurship Cell, Coding Club"
+Cristian Santos,18.0,80.8,"Cultural Club, Coding Club, Robotics"
+Ravi,20.0,89.64,"Literary Society, Robotics"
+Arjun,22.0,64.0,"Robotics, Cultural Club"
+Suresh,18.0,87.31,"Literary Society, Robotics, Entrepreneurship Cell"
+Elizabeth Cabrera,22.0,65.94,"Literary Society, Entrepreneurship Cell"
+Amit,19.0,89.21,"Literary Society, Coding Club, Entrepreneurship Cell"
+Anita,22.0,74.51,Literary Society
+Ashley Wilson,19.0,78.62,Robotics
+Joseph Collins,20.0,94.54,"Robotics, Cultural Club, Sports Club"
+Mary Robinson,21.0,95.83,"Literary Society, Coding Club, Entrepreneurship Cell"
+Sharon Coleman,19.0,66.37,Robotics
+Kavya,22.0,77.04,"Entrepreneurship Cell, Coding Club, Cultural Club"
+Nancy Stewart,20.0,73.5,"Robotics, Cultural Club, Entrepreneurship Cell"
+Courtney Hayes,22.0,71.52,"Cultural Club, Literary Society"
+Carlos Ryan,21.0,75.09,"Robotics, Entrepreneurship Cell"
+William Garcia,19.0,98.39,Entrepreneurship Cell
+Brittany Jones,18.0,66.15,"Robotics, Sports Club, Literary Society"
+Anthony Rush,19.0,85.35,Coding Club
+Arthur Hamilton MD,19.0,76.58,"Entrepreneurship Cell, Coding Club"
+Lisa Webb,22.0,79.5,"Sports Club, Cultural Club, Entrepreneurship Cell"
+Edward Arroyo,19.0,75.31,Sports Club
+Arjun,23.0,70.09,Robotics
+Anita,18.0,85.5,Robotics
+Gregory Montoya,23.0,76.12,"Literary Society, Sports Club, Cultural Club"
+Sherry Davis,20.0,72.52,"Cultural Club, Sports Club, Robotics"
+Christopher Norton Jr.,22.0,97.2,"Sports Club, Coding Club, Robotics"
+Timothy Combs,23.0,75.16,Robotics
+Arjun,20.0,64.62,"Sports Club, Coding Club"
+Vikram,22.0,89.25,"Entrepreneurship Cell, Cultural Club"
+Sonal,21.0,76.52,"Robotics, Literary Society"
+Miguel Wagner,22.0,64.68,"Entrepreneurship Cell, Coding Club, Cultural Club"
+James Whitaker,19.0,96.47,"Literary Society, Cultural Club, Sports Club"
+Vikram,20.0,84.96,Literary Society
+Neha,18.0,87.29,"Cultural Club, Sports Club"
+Harold Castillo,19.0,95.55,"Cultural Club, Coding Club"
+Kelly Hammond,21.0,91.97,Entrepreneurship Cell
+Danielle Jones,19.0,77.29,"Sports Club, Entrepreneurship Cell"
+Joyce Brown,20.0,65.35,Entrepreneurship Cell
+Karan,21.0,76.45,Coding Club
+Martha Garrison,19.0,98.01,"Sports Club, Coding Club"
+Arjun,23.0,72.32,"Cultural Club, Sports Club, Literary Society"
+Jonathan Bradley,22.0,95.76,"Sports Club, Robotics"
+Kristen Peters,21.0,77.72,Literary Society
+Deborah Mercado,20.0,77.43,"Literary Society, Sports Club, Robotics"
+Arjun,21.0,79.94,"Robotics, Sports Club, Coding Club"
+Christine Herman,22.0,99.45,"Literary Society, Cultural Club"
+Karan,18.0,72.11,Cultural Club
+Robert West,18.0,70.46,"Sports Club, Coding Club"
+Priya,18.0,92.22,"Entrepreneurship Cell, Cultural Club, Sports Club"
+Robert Jones,22.0,70.77,Coding Club
+Richard Williamson,23.0,81.2,"Cultural Club, Coding Club"
+Rakhi,23.0,76.78,"Cultural Club, Sports Club"
+Meena,18.0,64.11,"Robotics, Coding Club, Cultural Club"
+Ramya,19.0,99.38,"Sports Club, Coding Club"
+Rakesh,23.0,69.32,"Literary Society, Coding Club"
+Stephanie Lucas,19.0,65.35,"Entrepreneurship Cell, Sports Club, Cultural Club"
+Meena,23.0,93.35,"Sports Club, Coding Club, Literary Society"
+Meena,18.0,68.42,"Cultural Club, Entrepreneurship Cell, Literary Society"
+Stephanie Williams,20.0,79.51,Cultural Club
+Rebecca Acosta,23.0,79.06,"Coding Club, Entrepreneurship Cell, Sports Club"
+Taylor Calderon,19.0,70.38,"Entrepreneurship Cell, Literary Society"
+Suresh,18.0,60.53,"Sports Club, Robotics, Coding Club"
+Meena,23.0,88.36,"Robotics, Coding Club, Cultural Club"
+Ravi,20.0,69.28,Coding Club
+Eddie Adams,20.0,69.29,Cultural Club
+Jonathan Young,21.0,71.43,"Cultural Club, Literary Society, Robotics"
+Sonal,18.0,81.6,"Sports Club, Entrepreneurship Cell"
+Divya,19.0,72.08,"Cultural Club, Coding Club, Sports Club"
+Sonal,21.0,91.71,Literary Society
+Nathan Smith,20.0,67.37,"Entrepreneurship Cell, Coding Club, Robotics"
+Rakhi,22.0,87.3,"Cultural Club, Robotics"
+Kristina Young,18.0,84.15,Coding Club
+Daniel Rivera,18.0,66.16,Coding Club
+Holly Valdez,22.0,88.71,"Robotics, Coding Club, Literary Society"
+Vanessa Hatfield,22.0,74.51,Literary Society
+Jennifer Norton,23.0,88.36,"Robotics, Coding Club, Cultural Club"
+Carrie Deleon,21.0,86.84,Sports Club
+Anita,18.0,97.86,Cultural Club
+Suresh,20.0,65.89,"Literary Society, Cultural Club, Sports Club"
+Anita,22.0,74.22,"Cultural Club, Entrepreneurship Cell"
+Derek Wright,21.0,96.24,Entrepreneurship Cell
+Karen Romero,23.0,96.35,"Entrepreneurship Cell, Literary Society"
+Michael Colon,20.0,98.62,"Entrepreneurship Cell, Sports Club"
+Amit,20.0,67.03,"Coding Club, Robotics"
+Siddharth,22.0,96.97,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Cassidy Curry,22.0,93.98,Literary Society
+Mr. Jeffrey Horton,22.0,92.31,"Sports Club, Literary Society"
+Rakesh,18.0,94.11,"Sports Club, Cultural Club, Entrepreneurship Cell"
+Jordan Bates,20.0,93.92,"Entrepreneurship Cell, Literary Society, Sports Club"
+Ramya,18.0,61.25,"Coding Club, Robotics, Sports Club"
+Suresh,21.0,61.47,"Robotics, Cultural Club"
+Rakesh,21.0,60.16,Literary Society
+Rakesh,19.0,86.53,"Cultural Club, Robotics"
+Sydney Robles,18.0,99.12,Cultural Club
+Christopher Palmer,21.0,89.66,Literary Society
+Karan,18.0,72.54,"Robotics, Literary Society"
+Arjun,19.0,67.32,"Literary Society, Sports Club, Cultural Club"
+Ramya,18.0,93.73,Sports Club
+Rebecca Mayo,18.0,98.06,"Cultural Club, Entrepreneurship Cell"
+Kimberly Adkins,20.0,75.09,Coding Club
+Dustin Gallegos,19.0,86.84,"Robotics, Sports Club"
+Amit,19.0,87.44,"Sports Club, Coding Club, Literary Society"
+Jamie Walton,18.0,99.09,"Coding Club, Entrepreneurship Cell"
+Siddharth,18.0,67.22,"Coding Club, Cultural Club, Entrepreneurship Cell"
+Meena,21.0,82.13,Entrepreneurship Cell
+Rakesh,18.0,82.63,"Literary Society, Robotics, Sports Club"
+Alexander Collins,18.0,68.48,"Sports Club, Entrepreneurship Cell, Cultural Club"
+Rakesh,21.0,81.11,"Sports Club, Literary Society, Robotics"
+Judy Beck,21.0,61.52,Cultural Club
+Vikram,18.0,89.6,Cultural Club
+Donald Wilson,23.0,95.82,Cultural Club
+Sarah York,22.0,71.33,Cultural Club
+Lee Steele,21.0,73.72,"Entrepreneurship Cell, Cultural Club"
+Priya,23.0,60.04,Literary Society
+Meena,18.0,99.09,"Coding Club, Entrepreneurship Cell"
+Theresa Wilkins,21.0,63.81,"Entrepreneurship Cell, Robotics, Literary Society"
+Sonal,21.0,71.43,"Cultural Club, Literary Society, Robotics"
+Michael Smith,22.0,76.85,Sports Club
+Vikram,19.0,85.51,"Entrepreneurship Cell, Robotics"
+Arjun,23.0,75.16,Robotics
+Anil,20.0,73.04,"Coding Club, Literary Society, Robotics"
+Rahul,22.0,89.85,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Bradley Johnson DDS,19.0,96.36,"Coding Club, Literary Society"
+Rahul,19.0,73.03,"Sports Club, Cultural Club, Entrepreneurship Cell"
+Casey Perez,19.0,64.05,"Entrepreneurship Cell, Robotics"
+Ravi,22.0,72.98,"Cultural Club, Coding Club, Literary Society"
+Sonal,23.0,78.21,"Cultural Club, Sports Club"
+Pooja,22.0,92.51,"Sports Club, Robotics"
+Arjun,21.0,94.59,"Sports Club, Coding Club, Robotics"
+Arjun,20.0,73.04,"Coding Club, Literary Society, Robotics"
+Siddharth,21.0,71.43,"Robotics, Entrepreneurship Cell"
+Maria Cole,19.0,84.74,Robotics
+Erik Carr,19.0,79.27,Cultural Club
+Philip Ramsey,20.0,77.51,Entrepreneurship Cell
+Kavya,19.0,69.07,"Sports Club, Literary Society, Coding Club"
+Amit,18.0,60.36,Entrepreneurship Cell
+Lisa Miller,23.0,73.28,"Robotics, Cultural Club"
+Jacob Griffith,23.0,71.87,Entrepreneurship Cell
+Priya,19.0,90.23,"Literary Society, Entrepreneurship Cell, Robotics"
+Denise Stuart,18.0,99.61,"Coding Club, Sports Club, Cultural Club"
+Kavya,20.0,69.78,"Cultural Club, Literary Society"
+Rakhi,19.0,96.47,"Literary Society, Cultural Club, Sports Club"
+Rahul,23.0,72.53,Robotics
+Jose Travis,20.0,85.39,"Coding Club, Entrepreneurship Cell, Robotics"
+Rakhi,20.0,99.95,Sports Club
+Vikram,19.0,62.4,"Coding Club, Entrepreneurship Cell, Sports Club"
+Katherine Pearson,23.0,77.08,"Entrepreneurship Cell, Sports Club, Robotics"
+Gregory Bell,22.0,71.68,"Cultural Club, Robotics, Literary Society"
+Jacqueline Dickerson,23.0,66.25,Sports Club
+Theresa Elliott,21.0,75.11,"Coding Club, Entrepreneurship Cell, Robotics"
+Danielle Murray,21.0,74.06,"Coding Club, Literary Society, Sports Club"
+Kavya,18.0,64.75,"Coding Club, Entrepreneurship Cell"
+Rahul,20.0,88.78,"Cultural Club, Robotics"
+Sonal,22.0,87.3,"Cultural Club, Robotics"
+Vikram,22.0,83.72,"Entrepreneurship Cell, Sports Club"
+Sonal,19.0,85.25,"Sports Club, Literary Society, Cultural Club"
+Robin Brown,23.0,86.02,Cultural Club
+Pooja,23.0,81.34,"Coding Club, Literary Society, Entrepreneurship Cell"
+Ravi,20.0,82.53,"Coding Club, Cultural Club"
+Michael Bowen,22.0,75.52,Cultural Club
+Alexis Benson,21.0,77.49,Literary Society
+Neha,21.0,75.0,"Coding Club, Entrepreneurship Cell"
+Anita,21.0,78.56,"Sports Club, Literary Society"
+Neha,22.0,78.22,"Cultural Club, Entrepreneurship Cell, Sports Club"
+Ramya,23.0,93.56,Coding Club
+Vikram,20.0,69.29,Cultural Club
+Abigail Davis,20.0,66.62,Cultural Club
+Heather Ellis,20.0,84.53,"Robotics, Sports Club, Entrepreneurship Cell"
+Rakesh,23.0,81.34,"Coding Club, Literary Society, Entrepreneurship Cell"
+Arjun,22.0,98.13,"Cultural Club, Coding Club"
+Susan Arnold,20.0,67.2,"Robotics, Literary Society"
+Kathryn Lester,20.0,70.55,"Robotics, Cultural Club"
+Rakesh,19.0,98.39,Entrepreneurship Cell
+Anita,20.0,94.71,Entrepreneurship Cell
+Divya,23.0,68.28,"Literary Society, Robotics, Cultural Club"
+Rakhi,23.0,98.47,Literary Society
+Pam Lowe,18.0,84.15,"Entrepreneurship Cell, Coding Club, Literary Society"
+Arjun,20.0,89.07,"Literary Society, Sports Club, Cultural Club"
+Eric Williams,18.0,61.44,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Sonal,19.0,75.54,"Sports Club, Literary Society"
+Abigail Pierce,22.0,68.06,"Entrepreneurship Cell, Literary Society"
+Pooja,20.0,79.27,"Coding Club, Robotics, Entrepreneurship Cell"
+Robert Montgomery,23.0,83.39,"Cultural Club, Entrepreneurship Cell, Sports Club"
+Richard Richards,23.0,60.55,"Cultural Club, Entrepreneurship Cell"
+Anil,20.0,70.55,"Robotics, Cultural Club"
+Anil,23.0,88.66,"Cultural Club, Sports Club, Coding Club"
+Victor Brown,18.0,64.75,"Coding Club, Entrepreneurship Cell"
+Rakhi,21.0,62.32,"Entrepreneurship Cell, Sports Club"
+Rakhi,18.0,90.08,"Entrepreneurship Cell, Robotics, Sports Club"
+Adam Jones,18.0,67.63,"Literary Society, Robotics, Cultural Club"
+Nicole Barker,19.0,80.6,"Cultural Club, Robotics"
+Amit,18.0,60.36,Entrepreneurship Cell
+Karan,21.0,60.11,"Robotics, Sports Club, Literary Society"
+Rahul,18.0,98.87,"Coding Club, Literary Society, Cultural Club"
+Timothy Hayden DVM,23.0,81.53,"Literary Society, Coding Club"
+Cynthia Rios,23.0,65.42,Entrepreneurship Cell
+Pooja,21.0,84.72,Cultural Club
+Pooja,18.0,87.1,"Cultural Club, Coding Club, Sports Club"
+Priya,18.0,77.75,Cultural Club
+Ramya,21.0,76.52,"Robotics, Literary Society"
+Rahul,18.0,61.25,"Coding Club, Robotics, Sports Club"
+Anita,22.0,61.42,Sports Club
+Pooja,19.0,96.64,"Entrepreneurship Cell, Literary Society, Cultural Club"
+Travis Miller,21.0,64.23,"Literary Society, Robotics, Cultural Club"
+Rahul,19.0,99.22,Literary Society
+Priya,19.0,88.33,Robotics
+Jennifer Miles,21.0,95.51,"Cultural Club, Sports Club, Literary Society"
+Victor Edwards,20.0,96.55,"Robotics, Sports Club, Entrepreneurship Cell"
+Megan Walker,23.0,90.84,"Robotics, Entrepreneurship Cell, Sports Club"
+Rebecca Thompson,18.0,81.77,"Literary Society, Cultural Club"
+Anita,20.0,60.26,"Robotics, Cultural Club"
+Ann Dixon,23.0,94.0,"Robotics, Sports Club"
+Meena,20.0,64.15,"Coding Club, Robotics"
+Siddharth,23.0,88.66,"Cultural Club, Sports Club, Coding Club"
+Abigail Potter,22.0,78.93,"Entrepreneurship Cell, Coding Club, Sports Club"
+Karan,19.0,79.23,"Literary Society, Entrepreneurship Cell"
+Harry Williams,18.0,90.08,"Entrepreneurship Cell, Robotics, Sports Club"
+Valerie Gray,19.0,84.18,"Sports Club, Cultural Club"
+James Mccoy,21.0,82.55,"Robotics, Entrepreneurship Cell, Sports Club"
+Sonal,23.0,61.39,Cultural Club
+Anna Ross,23.0,88.3,"Robotics, Entrepreneurship Cell, Coding Club"
+Erin Bridges,19.0,78.31,Sports Club
+Kenneth Sanchez MD,19.0,89.39,"Sports Club, Robotics"
+Michael Roberts,23.0,88.84,"Robotics, Literary Society"
+Priya,23.0,74.06,"Literary Society, Sports Club"
+Andrew Gonzalez,18.0,71.84,"Sports Club, Cultural Club"
+Charles Weaver,19.0,65.67,Cultural Club
+Arjun,19.0,60.43,"Robotics, Entrepreneurship Cell"
+Priya,19.0,92.43,"Coding Club, Sports Club"
+Vikram,21.0,93.1,Robotics
+Patricia Hayes,22.0,80.48,"Entrepreneurship Cell, Cultural Club"
+Vikram,19.0,84.13,Cultural Club
+Suresh,19.0,87.44,"Sports Club, Coding Club, Literary Society"
+Rakhi,20.0,63.4,Robotics
+Pooja,22.0,68.46,Cultural Club
+Kavya,22.0,83.69,Entrepreneurship Cell
+Siddharth,21.0,73.54,Coding Club
+Neha,22.0,63.36,"Coding Club, Robotics"
+Phillip Jimenez,19.0,65.57,"Sports Club, Cultural Club, Coding Club"
+Kyle Nguyen,23.0,94.72,"Entrepreneurship Cell, Literary Society"
+Terry Ward,20.0,98.41,"Cultural Club, Sports Club"
+Amit,22.0,98.13,"Cultural Club, Coding Club"
+Suresh,22.0,90.34,"Cultural Club, Coding Club"
+Ravi,22.0,99.12,"Coding Club, Cultural Club"
+Kenneth Andrews,18.0,73.34,"Sports Club, Literary Society, Robotics"
+Vikram,18.0,68.42,"Cultural Club, Entrepreneurship Cell, Literary Society"
+Ashley Perry,23.0,82.51,"Sports Club, Robotics"
+Ryan Bryant,23.0,78.21,"Cultural Club, Sports Club"
+Ravi,22.0,62.58,"Sports Club, Entrepreneurship Cell, Coding Club"
+Arjun,18.0,82.63,"Literary Society, Robotics, Sports Club"
+Rachel Ward,21.0,69.03,"Robotics, Entrepreneurship Cell"
+Priya,18.0,66.15,"Robotics, Sports Club, Literary Society"
+Juan Nelson,19.0,96.75,"Sports Club, Entrepreneurship Cell, Robotics"
+Meena,20.0,73.42,Literary Society
+Yolanda Green,23.0,65.05,"Literary Society, Cultural Club"
+Christopher Williams,20.0,86.72,"Literary Society, Robotics, Entrepreneurship Cell"
+Renee Bruce,23.0,91.49,"Entrepreneurship Cell, Sports Club, Cultural Club"
+Debra Morton,18.0,89.49,"Entrepreneurship Cell, Robotics, Literary Society"
+Sara Evans,18.0,67.67,"Cultural Club, Robotics"
+Amit,19.0,71.65,"Sports Club, Coding Club"
+Stephanie Herrera,20.0,85.47,Robotics
+Robert Santana,22.0,89.83,"Coding Club, Robotics, Literary Society"
+Bailey Hall,20.0,68.19,"Robotics, Coding Club, Cultural Club"
+Margaret Tanner,23.0,78.09,Cultural Club
+Sonal,21.0,68.05,"Cultural Club, Entrepreneurship Cell, Robotics"
+Jennifer Brown,19.0,71.74,Robotics
+Robin Adams,21.0,94.25,Cultural Club
+Rahul,23.0,99.8,"Entrepreneurship Cell, Sports Club, Literary Society"
+Carrie Maxwell,22.0,87.3,"Cultural Club, Robotics"
+Kavya,22.0,93.75,Entrepreneurship Cell
+Daniel Parrish,19.0,79.57,Literary Society
+Ramya,19.0,65.35,"Entrepreneurship Cell, Sports Club, Cultural Club"
+Sonal,21.0,60.39,"Literary Society, Coding Club"
+Elizabeth Stanley,20.0,72.19,"Literary Society, Coding Club"
+Crystal Robinson,21.0,71.43,"Robotics, Entrepreneurship Cell"
+Charlotte Mason,19.0,68.2,"Robotics, Coding Club, Entrepreneurship Cell"
+Matthew House,19.0,92.84,"Entrepreneurship Cell, Sports Club, Robotics"
+Gene Castro,18.0,87.59,Coding Club
+Jason Davis,23.0,83.29,"Cultural Club, Sports Club"
+James Willis,20.0,73.4,"Cultural Club, Literary Society"
+Sean Moore,20.0,72.17,"Entrepreneurship Cell, Sports Club"
+Alison Brown,22.0,72.39,"Cultural Club, Coding Club, Sports Club"
+Anita,23.0,77.08,"Entrepreneurship Cell, Sports Club, Robotics"
+Courtney Peterson,19.0,74.5,"Robotics, Coding Club"
+Neha,21.0,83.65,"Sports Club, Coding Club, Literary Society"
+Kavya,22.0,72.31,"Entrepreneurship Cell, Robotics"
+John Coffey,20.0,65.89,"Literary Society, Cultural Club, Sports Club"
+Becky Johnson,21.0,67.47,"Literary Society, Entrepreneurship Cell"
+Jordan Edwards,21.0,84.54,"Coding Club, Robotics, Cultural Club"
+Sonal,22.0,92.51,"Sports Club, Robotics"
+Matthew Velez,21.0,95.19,Entrepreneurship Cell
+Cheyenne Horton,22.0,89.25,"Entrepreneurship Cell, Cultural Club"
+James Powers,19.0,97.32,Coding Club
+Tina Hall,21.0,89.78,Sports Club
+Juan Reyes,23.0,94.91,"Sports Club, Coding Club"
+Tracy Fitzgerald,19.0,72.0,"Coding Club, Cultural Club, Sports Club"
+Sonal,18.0,60.75,Cultural Club
+Ravi,18.0,90.08,"Entrepreneurship Cell, Robotics, Sports Club"
+Priya,19.0,64.54,Cultural Club
+Meena,21.0,95.25,Cultural Club
+Priya,20.0,72.19,"Literary Society, Coding Club"
+Michael Williams,22.0,72.98,"Cultural Club, Coding Club, Literary Society"
+Divya,19.0,80.6,"Cultural Club, Robotics"
+Amber Obrien,18.0,79.13,Entrepreneurship Cell
+Priya,18.0,62.79,Cultural Club
+Pooja,18.0,75.04,"Cultural Club, Sports Club, Robotics"
+Brianna Fitzpatrick,21.0,99.81,"Coding Club, Entrepreneurship Cell, Literary Society"
+Rahul,20.0,71.33,"Robotics, Sports Club"
+Sonal,21.0,72.84,"Literary Society, Entrepreneurship Cell, Sports Club"
+Carla Benton,23.0,95.35,"Coding Club, Entrepreneurship Cell"
+Amy Taylor,23.0,85.39,Literary Society
+Karan,19.0,70.26,"Cultural Club, Entrepreneurship Cell"
+Anita,22.0,72.14,"Literary Society, Robotics, Coding Club"
+Amit,22.0,86.81,"Sports Club, Literary Society"
+Anil,19.0,76.92,Sports Club
+Pooja,18.0,67.07,Entrepreneurship Cell
+Christina Johnson,23.0,94.94,"Robotics, Entrepreneurship Cell, Coding Club"
+Rahul,21.0,60.05,"Literary Society, Robotics, Sports Club"
+Kristy Reid,20.0,88.21,"Cultural Club, Robotics"
+Meena,19.0,88.73,"Robotics, Coding Club"
+Arjun,21.0,61.47,"Robotics, Cultural Club"
+Divya,18.0,89.39,"Cultural Club, Sports Club, Robotics"
+Penny Bowman,23.0,83.75,"Entrepreneurship Cell, Robotics"
+Tina Sanders,21.0,65.43,Robotics
+Meena,22.0,99.45,"Literary Society, Cultural Club"
+Rakesh,20.0,65.62,Sports Club
+Allison Spencer,23.0,60.96,"Literary Society, Robotics, Cultural Club"
+Timothy Edwards,21.0,60.16,Literary Society
+Haley Anderson,22.0,60.47,"Literary Society, Robotics, Sports Club"
+Dean Young,22.0,60.38,Sports Club
+Curtis Wilkerson,21.0,60.39,"Literary Society, Coding Club"
+Karen Ortiz,22.0,60.84,"Sports Club, Entrepreneurship Cell, Cultural Club"
+Megan Le,18.0,81.05,"Entrepreneurship Cell, Coding Club"
+Anita,20.0,80.9,"Entrepreneurship Cell, Cultural Club"
+Robert Turner,22.0,62.58,"Sports Club, Entrepreneurship Cell, Coding Club"
+Robin Andrews,18.0,82.97,"Literary Society, Coding Club, Robotics"
+Arjun,19.0,72.21,"Cultural Club, Coding Club"
+Pamela Beard,18.0,70.1,"Cultural Club, Robotics"
+Rakesh,22.0,72.39,"Cultural Club, Coding Club, Sports Club"
+Rahul,21.0,62.07,"Cultural Club, Coding Club"
+Kathy Walker,20.0,93.67,"Cultural Club, Robotics, Literary Society"
+Neha,21.0,92.11,"Coding Club, Sports Club, Cultural Club"
+Theresa Jones,19.0,98.66,"Cultural Club, Entrepreneurship Cell"
+James Torres,23.0,67.02,"Coding Club, Robotics, Entrepreneurship Cell"
+Kelly Carpenter,19.0,82.48,"Coding Club, Robotics, Literary Society"
+Divya,19.0,70.38,"Entrepreneurship Cell, Literary Society"
+Siddharth,23.0,93.37,"Robotics, Sports Club, Literary Society"
+Angela Griffin,18.0,60.36,Entrepreneurship Cell
+Rachel Lane,20.0,83.11,"Cultural Club, Coding Club, Sports Club"
+Ramya,18.0,93.74,"Cultural Club, Robotics, Coding Club"
+Claudia Lyons,22.0,72.29,"Entrepreneurship Cell, Coding Club, Literary Society"
+William Tran,20.0,93.22,Robotics
+Suresh,23.0,80.0,Robotics
+Jeffrey James,22.0,65.67,Sports Club
+Joshua Fitzpatrick,21.0,78.3,Cultural Club
+Amit,23.0,90.18,"Coding Club, Literary Society, Sports Club"
+Mariah Robles,21.0,60.11,"Robotics, Sports Club, Literary Society"
+Aaron Moore,18.0,71.47,"Robotics, Cultural Club"
+Arjun,18.0,60.75,Cultural Club
+Katherine Browning,18.0,93.56,Robotics
+Sonal,20.0,67.37,"Entrepreneurship Cell, Coding Club, Robotics"
+Michael Lyons,21.0,91.07,"Cultural Club, Sports Club"
+Siddharth,23.0,94.74,Sports Club
+Anita,19.0,85.13,"Literary Society, Sports Club, Coding Club"
+Karan,23.0,63.39,Robotics
+Rahul,22.0,78.0,Sports Club
+Meena,23.0,67.14,"Sports Club, Robotics, Entrepreneurship Cell"
+Rahul,19.0,64.08,Entrepreneurship Cell
+Anil,22.0,76.85,Sports Club
+Jason Graves,23.0,60.58,Robotics
+Rakhi,20.0,85.04,Entrepreneurship Cell
+Cynthia Le,18.0,66.03,"Robotics, Entrepreneurship Cell"
+Madison Elliott,18.0,75.19,Entrepreneurship Cell
+Timothy Wong,22.0,63.61,"Sports Club, Robotics"
+Ramya,18.0,79.32,"Literary Society, Cultural Club, Entrepreneurship Cell"
+Rakhi,18.0,69.01,"Cultural Club, Sports Club"
+John Reid,22.0,81.82,"Coding Club, Sports Club"
+Matthew Lara,22.0,76.96,Coding Club
+Neha,22.0,92.82,"Entrepreneurship Cell, Cultural Club, Sports Club"
+William Crawford,20.0,63.4,Robotics
+Hailey Gutierrez,19.0,85.36,"Entrepreneurship Cell, Coding Club"
+Brandy York,18.0,83.77,"Coding Club, Literary Society, Sports Club"
+Kathryn Cain,20.0,83.84,Coding Club
+David Torres,20.0,72.56,Sports Club
+Jennifer Jones,19.0,90.2,Cultural Club
+Ramya,23.0,77.21,Literary Society
+Morgan Valencia,21.0,94.13,"Coding Club, Entrepreneurship Cell, Cultural Club"
+Anita,20.0,80.37,"Literary Society, Coding Club, Robotics"
+Justin Frederick,19.0,85.64,"Sports Club, Coding Club"
+Sheri Buchanan,18.0,69.61,"Cultural Club, Entrepreneurship Cell"
+Suresh,19.0,94.96,Cultural Club
+Christopher Mclaughlin,23.0,66.61,"Sports Club, Entrepreneurship Cell"
+Anthony Dennis,22.0,90.34,"Cultural Club, Coding Club"
+Jonathan Valdez,18.0,67.22,"Coding Club, Cultural Club, Entrepreneurship Cell"
+Christian Leblanc,18.0,63.02,Literary Society
+Neha,21.0,79.13,Coding Club
+Neha,21.0,95.63,"Coding Club, Robotics, Sports Club"
+Yvonne Burns,19.0,85.25,"Sports Club, Literary Society, Cultural Club"
+Siddharth,20.0,80.37,"Literary Society, Coding Club, Robotics"
+Ashley Blair,19.0,74.8,"Entrepreneurship Cell, Coding Club, Literary Society"
+Laura Ross,23.0,80.41,Entrepreneurship Cell
+Alexa Buck,20.0,93.84,"Entrepreneurship Cell, Cultural Club"
+Nicole Phillips,20.0,85.83,"Coding Club, Sports Club, Cultural Club"
+Amit,19.0,78.15,Robotics
+Ravi,19.0,85.16,Entrepreneurship Cell
+Steve Moore,18.0,67.07,Entrepreneurship Cell
+Patrick Moore,18.0,70.99,Robotics
+Suresh,20.0,73.98,Entrepreneurship Cell
+Denise Dean,19.0,70.69,"Literary Society, Coding Club"
+Brett Zavala MD,23.0,84.17,"Coding Club, Entrepreneurship Cell"
+Kimberly Morrison,18.0,84.69,"Sports Club, Literary Society, Coding Club"
+Vivaan Reddy,,,
+Priya,21.0,64.83,Coding Club
+Sharon Hill,23.0,93.53,"Sports Club, Literary Society"
+Luke Estrada,23.0,63.23,"Entrepreneurship Cell, Coding Club, Literary Society"
+Siddharth,19.0,80.61,"Literary Society, Sports Club, Entrepreneurship Cell"
+Cody Reid,22.0,78.7,Cultural Club
+Pooja,20.0,67.05,"Robotics, Literary Society"
+Joshua Wells,21.0,67.17,"Robotics, Cultural Club"
+Meena,19.0,73.03,"Sports Club, Cultural Club, Entrepreneurship Cell"
+Ravi,23.0,60.04,Literary Society
+Arjun,21.0,95.12,Entrepreneurship Cell
+Eric Rush,19.0,62.4,"Coding Club, Entrepreneurship Cell, Sports Club"
+Derek Wilson,21.0,77.43,"Robotics, Entrepreneurship Cell"
+Mary Hill,20.0,63.54,Coding Club
+Danielle Reed,23.0,89.44,"Cultural Club, Literary Society"
+Carlos Love,19.0,81.92,"Cultural Club, Sports Club, Robotics"
+Anil,23.0,83.29,"Cultural Club, Sports Club"
+Suresh,21.0,75.09,"Robotics, Entrepreneurship Cell"
+Rakhi,19.0,88.94,Literary Society
+Divya,19.0,99.38,"Sports Club, Coding Club"
+Ramya,18.0,83.37,"Cultural Club, Literary Society"
+Kevin Johnson,20.0,73.39,Literary Society
+Arjun,21.0,95.24,"Coding Club, Entrepreneurship Cell, Sports Club"
+Rachel Thompson,20.0,73.04,"Coding Club, Literary Society, Robotics"
+Anita,18.0,66.65,"Sports Club, Entrepreneurship Cell"
+Darryl Acosta,19.0,71.9,Literary Society
+Vernon Huff,20.0,73.98,Entrepreneurship Cell
+Rakhi,23.0,93.37,"Robotics, Sports Club, Literary Society"
+Amit,19.0,82.6,"Entrepreneurship Cell, Coding Club, Cultural Club"
+Adam Brooks,21.0,78.55,Entrepreneurship Cell
+Alicia Li,18.0,90.61,"Robotics, Cultural Club, Coding Club"
+Jessica Bennett,23.0,80.2,Entrepreneurship Cell
+Arjun,23.0,71.19,"Coding Club, Sports Club, Robotics"
+Melissa Stewart,22.0,71.29,"Robotics, Coding Club"
+Ramya,21.0,71.65,"Cultural Club, Robotics, Literary Society"
+Kelly Barnes,23.0,82.25,"Robotics, Literary Society"
+Lance Simmons,22.0,71.29,"Sports Club, Literary Society, Entrepreneurship Cell"
+Bradley Duncan,23.0,99.46,"Sports Club, Entrepreneurship Cell, Literary Society"
+Karan,18.0,77.59,"Literary Society, Coding Club"
+Rakhi,19.0,91.43,"Entrepreneurship Cell, Literary Society, Cultural Club"
+Sandra Kelley,18.0,74.03,"Coding Club, Cultural Club"
+Richard Gibson,18.0,75.09,"Sports Club, Cultural Club"
+Meena,22.0,81.82,"Coding Club, Sports Club"
+Sonal,19.0,75.31,Sports Club
+Lisa Gibbs,19.0,85.45,"Robotics, Literary Society"
+Rahul,22.0,96.95,"Literary Society, Coding Club, Robotics"
+Rahul,22.0,85.02,Cultural Club
+Pooja,22.0,64.94,"Cultural Club, Coding Club"
+Anil,23.0,92.66,Cultural Club
+Anil,18.0,89.79,Literary Society
+Ramya,21.0,83.42,"Entrepreneurship Cell, Literary Society"
+Joyce Bowen,21.0,65.55,"Entrepreneurship Cell, Sports Club"
+Priscilla Berg,22.0,76.9,"Cultural Club, Sports Club, Robotics"
+Jacob Preston,20.0,72.73,"Coding Club, Sports Club"
+Rakhi,23.0,79.06,"Coding Club, Entrepreneurship Cell, Sports Club"
+Sonal,19.0,75.31,Sports Club
+Ramya,20.0,97.41,"Cultural Club, Entrepreneurship Cell"
+Ramya,23.0,65.54,Sports Club
+Divya,20.0,93.61,Entrepreneurship Cell
+Terry Black,18.0,60.53,"Sports Club, Robotics, Coding Club"
+Robert Thompson,21.0,61.25,Robotics
+Hector Ingram,19.0,89.12,"Sports Club, Coding Club, Cultural Club"
+Anil,23.0,76.78,"Cultural Club, Sports Club"
+Ariel Sandoval,23.0,71.52,"Coding Club, Entrepreneurship Cell, Literary Society"
+Angela Brown,23.0,68.03,"Entrepreneurship Cell, Sports Club, Cultural Club"
+Randy Griffin,21.0,90.77,Sports Club
+Siddharth,19.0,96.23,"Entrepreneurship Cell, Cultural Club"
+Arjun,20.0,64.15,"Coding Club, Robotics"
+Amit,23.0,65.54,Sports Club
+Rahul,22.0,62.36,"Entrepreneurship Cell, Coding Club"
+Rakesh,22.0,86.81,"Sports Club, Literary Society"
+Michele Gibson,23.0,74.86,"Sports Club, Entrepreneurship Cell"
+Angela Mack,20.0,64.62,"Sports Club, Coding Club"
+Lisa Perry,23.0,99.1,"Coding Club, Robotics, Sports Club"
+Siddharth,23.0,60.04,Literary Society
+Diana Hays,21.0,93.1,Robotics
+Siddharth,20.0,84.53,"Robotics, Sports Club, Entrepreneurship Cell"
+Anita,19.0,60.43,"Robotics, Entrepreneurship Cell"
+Arjun,20.0,89.07,"Literary Society, Sports Club, Cultural Club"
+Laura Green,20.0,78.56,"Entrepreneurship Cell, Robotics, Literary Society"
+Ravi,23.0,94.48,"Literary Society, Robotics, Cultural Club"
+Vikram,21.0,64.56,Cultural Club
+Rakhi,23.0,67.53,Coding Club
+Sonal,20.0,68.95,"Literary Society, Robotics, Coding Club"
+Priya,22.0,70.77,Coding Club
+Wendy Turner,19.0,61.45,Cultural Club
+Arjun,21.0,98.72,Coding Club
+Ravi,23.0,90.18,"Coding Club, Literary Society, Sports Club"
+Alexander Landry,23.0,78.05,"Entrepreneurship Cell, Cultural Club"
+Arjun,23.0,62.07,Sports Club
+Kristy Bryan,18.0,92.64,Entrepreneurship Cell
+Arjun,20.0,82.41,"Robotics, Entrepreneurship Cell, Literary Society"
+Divya,22.0,93.75,Entrepreneurship Cell
+Rakesh,23.0,80.41,Entrepreneurship Cell
+Nathan Malone,18.0,83.29,"Coding Club, Cultural Club"
+Melinda Cameron,19.0,99.85,Robotics
+Kavya,21.0,84.85,Coding Club
+Charles Schmidt,19.0,82.15,"Sports Club, Robotics"
+Elizabeth French,19.0,64.9,"Literary Society, Coding Club, Entrepreneurship Cell"
+Anita,21.0,95.25,Cultural Club
+Chad Jones,22.0,77.71,"Cultural Club, Coding Club, Literary Society"
+Rakesh,18.0,63.02,Literary Society
+Divya,19.0,95.93,"Coding Club, Cultural Club"
+Eric Blackburn,22.0,63.36,"Coding Club, Robotics"
+Joseph Harris,21.0,87.63,Literary Society
+Kelsey Lucas,19.0,60.77,"Literary Society, Robotics, Entrepreneurship Cell"
+Sean Mccarty,23.0,97.22,"Literary Society, Cultural Club"
+Melinda Mitchell,21.0,72.15,"Cultural Club, Literary Society"
+Karan,18.0,90.11,"Literary Society, Robotics"
+Maria Kerr,18.0,94.11,"Sports Club, Cultural Club, Entrepreneurship Cell"
+Joseph Jimenez,22.0,67.75,"Robotics, Literary Society"
+Rahul,19.0,69.49,"Sports Club, Literary Society, Cultural Club"
+Cynthia Green,22.0,75.25,"Literary Society, Robotics, Sports Club"
+Laura Curtis,22.0,90.32,"Cultural Club, Sports Club, Robotics"
+Divya,18.0,89.14,Robotics
+Sonal,19.0,97.65,"Sports Club, Cultural Club, Coding Club"
+Pooja,18.0,95.78,"Robotics, Sports Club, Entrepreneurship Cell"
+Ronald Haas,22.0,98.01,"Sports Club, Cultural Club, Entrepreneurship Cell"
+Eric Curry,19.0,84.41,"Entrepreneurship Cell, Sports Club, Cultural Club"
+Suresh,22.0,95.82,"Cultural Club, Entrepreneurship Cell, Robotics"
+Michael Ray,22.0,86.48,"Literary Society, Entrepreneurship Cell"
+Sergio Knight,18.0,96.55,"Sports Club, Coding Club"
+Emily Arnold,18.0,99.06,"Literary Society, Robotics"
+Brady Cole,23.0,68.27,"Robotics, Entrepreneurship Cell"
+Pooja,18.0,64.75,"Coding Club, Entrepreneurship Cell"
+Kavya,18.0,71.87,Literary Society
+Joseph Howard,18.0,90.11,"Literary Society, Robotics"
+Brent Roberts,23.0,66.73,"Entrepreneurship Cell, Coding Club"
+Divya,18.0,78.54,"Coding Club, Cultural Club"
+Keith Jacobs,18.0,89.37,"Coding Club, Cultural Club"
+Sonal,19.0,61.59,"Literary Society, Sports Club"
+Kavya,19.0,70.44,"Cultural Club, Entrepreneurship Cell"
+Sherry Decker,20.0,87.87,"Robotics, Literary Society, Cultural Club"
+Vikram,19.0,64.9,"Literary Society, Coding Club, Entrepreneurship Cell"
+Miss Tina Gordon,18.0,77.59,"Literary Society, Coding Club"
+Ramya,21.0,74.06,"Coding Club, Literary Society, Sports Club"
+Elizabeth Vasquez,22.0,74.63,"Sports Club, Literary Society"
+Ian Nelson,21.0,72.12,Robotics
+Heather Combs,20.0,62.09,"Coding Club, Entrepreneurship Cell"
+Lisa Garrett,23.0,70.79,"Cultural Club, Sports Club"
+Alyssa Thompson,19.0,66.87,Entrepreneurship Cell
+Timothy Hill,18.0,79.32,"Literary Society, Cultural Club, Entrepreneurship Cell"
+Antonio Goodwin,23.0,79.86,"Cultural Club, Entrepreneurship Cell"
+Rahul,21.0,67.73,Entrepreneurship Cell
+Ravi,18.0,95.78,"Robotics, Sports Club, Entrepreneurship Cell"
+Divya,21.0,97.57,"Literary Society, Sports Club, Coding Club"
+Dr. Steve James,18.0,65.48,"Entrepreneurship Cell, Sports Club, Literary Society"
+Rhonda Smith,19.0,98.45,"Literary Society, Cultural Club"
+Meena,21.0,99.81,"Coding Club, Entrepreneurship Cell, Literary Society"
+Pooja,19.0,99.17,Cultural Club
+William Sanchez,20.0,77.16,"Cultural Club, Coding Club, Robotics"
+Dr. Michael Evans,18.0,76.21,Cultural Club
+Ryan Munoz,18.0,88.53,"Entrepreneurship Cell, Cultural Club"
+Maria Johnson,19.0,72.04,Entrepreneurship Cell
+Ravi,19.0,73.34,Cultural Club
+Jacqueline Villegas,22.0,96.97,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Matthew Tucker,23.0,80.0,Robotics
+Dr. Tracy House DVM,19.0,87.91,"Sports Club, Entrepreneurship Cell, Literary Society"
+Paige Sanchez,20.0,60.26,"Robotics, Cultural Club"
+Kathleen Webster,18.0,87.1,"Cultural Club, Coding Club, Sports Club"
+Christine Henry,21.0,70.83,"Cultural Club, Literary Society"
+Karan,18.0,68.51,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Ravi,21.0,84.97,Coding Club
+Karan,19.0,82.6,"Entrepreneurship Cell, Coding Club, Cultural Club"
+Karen Soto,19.0,94.04,Coding Club
+Ravi,22.0,72.22,Literary Society
+Rakesh,20.0,68.19,"Robotics, Coding Club, Cultural Club"
+Karan,20.0,72.56,Sports Club
+Rodney Evans,20.0,85.35,"Sports Club, Entrepreneurship Cell, Coding Club"
+Karan,21.0,77.21,Sports Club
+Frank Fletcher,22.0,60.26,"Literary Society, Robotics"
+Mason Moore,22.0,95.82,"Cultural Club, Entrepreneurship Cell, Robotics"
+Arjun,18.0,93.73,Sports Club
+Karl Branch,23.0,70.97,"Robotics, Literary Society, Cultural Club"
+Fernando Lynn,22.0,99.12,"Coding Club, Cultural Club"
+Divya,21.0,88.92,"Coding Club, Sports Club"
+Annette Melton,18.0,85.5,Robotics
+Sonal,23.0,83.93,Entrepreneurship Cell
+Pooja,19.0,90.23,"Literary Society, Entrepreneurship Cell, Robotics"
+Anthony Moore,23.0,75.64,"Entrepreneurship Cell, Robotics"
+Priya,19.0,96.39,"Cultural Club, Sports Club, Robotics"
+Arjun,21.0,60.09,"Coding Club, Sports Club, Cultural Club"
+Karan,23.0,68.03,"Entrepreneurship Cell, Sports Club, Cultural Club"
+Robert Stevens,23.0,82.66,Sports Club
+Kerry Smith,19.0,92.45,"Cultural Club, Robotics, Entrepreneurship Cell"
+Catherine Richards,22.0,91.45,"Entrepreneurship Cell, Cultural Club"
+Jennifer Morris,18.0,65.82,"Robotics, Sports Club"
+Kelli Hall,20.0,73.42,Literary Society
+Rakhi,22.0,75.59,"Literary Society, Robotics, Coding Club"
+Christopher Rubio,23.0,83.93,Entrepreneurship Cell
+Anita,19.0,65.6,"Coding Club, Cultural Club"
+Ramya,21.0,93.33,"Literary Society, Sports Club"
+Ravi,22.0,60.33,Robotics
+Karan,23.0,60.04,Literary Society
+Priya,23.0,94.48,"Literary Society, Robotics, Cultural Club"
+Neha,23.0,63.23,"Entrepreneurship Cell, Coding Club, Literary Society"
+Casey Gillespie,21.0,65.21,"Robotics, Entrepreneurship Cell"
+Siddharth,22.0,64.46,Coding Club
+Rakhi,20.0,93.69,Coding Club
+Rahul,23.0,98.47,Literary Society
+Kavya,23.0,76.78,"Cultural Club, Sports Club"
+Kavya,20.0,79.27,"Coding Club, Robotics, Entrepreneurship Cell"
+Priya,21.0,76.28,"Robotics, Entrepreneurship Cell"
+Rakhi,22.0,63.36,"Coding Club, Robotics"
+Caroline Richardson,22.0,84.05,Coding Club
+Ashley Bird,23.0,69.42,"Coding Club, Entrepreneurship Cell, Literary Society"
+Elizabeth Kelley,18.0,95.78,"Robotics, Sports Club, Entrepreneurship Cell"
+Pamela Anderson,22.0,64.0,"Robotics, Cultural Club"
+Arjun,20.0,72.86,"Cultural Club, Robotics, Coding Club"
+Andrea Hale,20.0,86.03,"Literary Society, Entrepreneurship Cell"
+Anita,19.0,82.48,"Coding Club, Robotics, Literary Society"
+Mark Baker,22.0,96.83,"Cultural Club, Sports Club, Entrepreneurship Cell"
+Mary Bridges,19.0,64.08,Entrepreneurship Cell
+Justin Green,19.0,69.07,"Sports Club, Literary Society, Coding Club"
+Paul Martin,22.0,94.42,Sports Club
+Daniel Holloway,21.0,73.54,Coding Club
+Shannon Ray,20.0,64.88,Robotics
+Nancy Wyatt,21.0,64.68,"Entrepreneurship Cell, Sports Club"
+Priya,22.0,74.2,"Entrepreneurship Cell, Coding Club"
+Gary Wells,22.0,83.69,Entrepreneurship Cell
+Kelly Donovan,21.0,62.07,"Cultural Club, Coding Club"
+Siddharth,22.0,65.77,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Nicole Wilson,20.0,71.81,"Coding Club, Entrepreneurship Cell, Robotics"
+Lisa Lee,20.0,64.33,"Literary Society, Sports Club, Coding Club"
+Anil,18.0,90.57,"Entrepreneurship Cell, Robotics, Coding Club"
+Eric Morgan,21.0,68.69,"Cultural Club, Coding Club"
+Cindy Hayes,18.0,76.73,"Cultural Club, Sports Club"
+Ravi,19.0,72.04,Entrepreneurship Cell
+Sonal,21.0,88.92,"Coding Club, Sports Club"
+Stephanie Hampton,19.0,72.26,"Entrepreneurship Cell, Cultural Club, Robotics"
+Amit,22.0,85.72,Cultural Club
+Pooja,23.0,80.0,Robotics
+Amit,20.0,75.89,Entrepreneurship Cell
+Diamond Collins,18.0,65.37,"Literary Society, Sports Club, Robotics"
+Paul Thompson,23.0,77.34,"Coding Club, Robotics"
+Michael Armstrong,19.0,65.28,"Robotics, Literary Society, Cultural Club"
+Amit,19.0,98.45,"Literary Society, Cultural Club"
+Kenneth Sharp,18.0,60.05,"Cultural Club, Literary Society"
+Kavya,23.0,88.84,"Robotics, Literary Society"
+Anna Stephens,23.0,69.32,"Literary Society, Coding Club"
+Meena,22.0,61.42,Sports Club
+Pooja,19.0,89.69,"Entrepreneurship Cell, Sports Club"
+Anita,19.0,64.05,"Entrepreneurship Cell, Robotics"
+Steven Flynn,20.0,64.16,"Entrepreneurship Cell, Coding Club, Robotics"
+Divya,19.0,72.05,"Sports Club, Coding Club"
+Michelle Brown,18.0,85.15,"Cultural Club, Robotics, Sports Club"
+Dawn Nichols,19.0,86.53,"Cultural Club, Robotics"
+Jason Beck,22.0,96.43,Cultural Club
+Ravi,19.0,88.33,Robotics
+Sherry Woods,18.0,90.07,"Entrepreneurship Cell, Literary Society"
+Karan,20.0,69.78,"Cultural Club, Literary Society"
+Pooja,22.0,78.76,"Coding Club, Sports Club, Robotics"
+Christopher Morton,19.0,93.99,"Coding Club, Robotics"
+Kavya,21.0,89.49,Sports Club
+Dr. Hannah Patterson,22.0,63.18,"Entrepreneurship Cell, Cultural Club, Coding Club"
+Kristi Higgins MD,21.0,61.47,"Robotics, Cultural Club"
+Darren White,23.0,63.39,Entrepreneurship Cell
+Adrian Tyler,19.0,62.45,"Robotics, Sports Club, Coding Club"
+Victoria Valdez,23.0,81.46,"Sports Club, Entrepreneurship Cell, Literary Society"
+Cynthia Vasquez,19.0,60.58,Literary Society
+Diana May,18.0,63.66,"Entrepreneurship Cell, Coding Club"
+Vikram,22.0,79.22,"Cultural Club, Entrepreneurship Cell"
+Ravi,20.0,79.27,"Coding Club, Robotics, Entrepreneurship Cell"
+Morgan Davis,19.0,73.61,"Sports Club, Literary Society, Robotics"
+Lori Guerrero,21.0,83.51,"Robotics, Literary Society, Cultural Club"
+Amy Grant,20.0,68.32,"Entrepreneurship Cell, Sports Club"
+Anne Anderson,18.0,82.63,"Literary Society, Robotics, Sports Club"
+Jeremy Dalton,22.0,74.22,"Cultural Club, Entrepreneurship Cell"
+Jose Schultz,21.0,92.75,Robotics
+Rakesh,22.0,77.85,"Entrepreneurship Cell, Robotics"
+Anita,22.0,89.77,"Cultural Club, Entrepreneurship Cell, Literary Society"
+Kevin Snyder,21.0,95.24,"Coding Club, Entrepreneurship Cell, Sports Club"
+Neha,22.0,63.39,"Sports Club, Cultural Club, Robotics"
+Christopher Powers,22.0,90.22,"Cultural Club, Literary Society"
+John Costa,18.0,79.44,Cultural Club
+Joanna Pacheco,20.0,79.14,Coding Club
+David Weber,22.0,80.73,"Robotics, Coding Club, Sports Club"
+Arjun,21.0,91.71,Literary Society
+Wayne Wolfe,21.0,75.63,"Sports Club, Coding Club, Robotics"
+Divya,18.0,66.15,"Robotics, Sports Club, Literary Society"
+Allen Rogers,23.0,70.79,"Literary Society, Cultural Club, Sports Club"
+Vikram,20.0,89.07,"Literary Society, Sports Club, Cultural Club"
+Janice Fernandez,22.0,61.4,"Coding Club, Literary Society"
+Meena,22.0,74.76,"Robotics, Sports Club"
+Alec Ryan,18.0,71.87,Literary Society
+Amy Kim,22.0,95.42,Cultural Club
+Erin Edwards,22.0,69.23,"Cultural Club, Coding Club, Entrepreneurship Cell"
+Arjun,20.0,95.54,Cultural Club
+Rakesh,20.0,60.72,"Sports Club, Robotics, Literary Society"
+Jennifer Parrish,22.0,81.7,"Cultural Club, Entrepreneurship Cell, Sports Club"
+Anita,18.0,96.22,"Sports Club, Literary Society"
+Vikram,20.0,60.28,Robotics
+Rahul,18.0,60.05,"Cultural Club, Literary Society"
+Jessica Larsen,18.0,79.01,Cultural Club
+Mr. Timothy Andersen,23.0,65.63,Entrepreneurship Cell
+Kendra Luna,18.0,87.67,"Cultural Club, Coding Club"
+Michelle Butler,20.0,95.57,"Cultural Club, Robotics, Sports Club"
+Rakesh,19.0,65.57,"Sports Club, Cultural Club, Coding Club"
+James Rose,23.0,74.5,"Cultural Club, Coding Club, Literary Society"
+Kavya,20.0,79.84,Entrepreneurship Cell
+Gina Beard,19.0,95.93,"Coding Club, Cultural Club"
+Pooja,18.0,61.61,Coding Club
+Jon Clark,23.0,70.09,Robotics
+Chris Brown,19.0,76.74,"Coding Club, Literary Society"
+Arjun,21.0,74.06,"Coding Club, Literary Society, Sports Club"
+Suresh,22.0,78.97,Coding Club
+Shannon Cannon,21.0,76.52,"Robotics, Literary Society"
+Cindy Anderson,18.0,74.41,"Sports Club, Cultural Club, Literary Society"
+Karan,18.0,98.74,Robotics
+Vikram,18.0,80.8,"Cultural Club, Coding Club, Robotics"
+Erin Cook,19.0,82.6,"Entrepreneurship Cell, Coding Club, Cultural Club"
+Paul Skinner,22.0,66.39,Literary Society
+Anita,20.0,73.64,"Coding Club, Entrepreneurship Cell, Literary Society"
+Rahul,19.0,93.24,"Sports Club, Entrepreneurship Cell"
+Daniel Doyle,21.0,71.65,"Cultural Club, Robotics, Literary Society"
+Vikram,21.0,79.78,"Robotics, Sports Club"
+Karan,21.0,87.92,"Sports Club, Literary Society, Entrepreneurship Cell"
+Amit,19.0,91.7,"Coding Club, Literary Society, Entrepreneurship Cell"
+Vikram,18.0,69.61,"Cultural Club, Entrepreneurship Cell"
+John Atkinson,23.0,99.88,"Entrepreneurship Cell, Sports Club"
+Siddharth,20.0,72.17,"Entrepreneurship Cell, Sports Club"
+David Hinton,20.0,83.81,"Coding Club, Sports Club"
+Ramya,23.0,81.2,"Cultural Club, Coding Club"
+Arjun,22.0,90.32,"Cultural Club, Sports Club, Robotics"
+Mary Charles,19.0,89.77,"Cultural Club, Robotics"
+Suresh,20.0,95.58,"Sports Club, Coding Club"
+Rakhi,18.0,63.66,"Entrepreneurship Cell, Coding Club"
+Pooja,22.0,68.6,"Coding Club, Entrepreneurship Cell"
+Vikram,18.0,70.7,"Sports Club, Cultural Club, Coding Club"
+Derrick Nunez,22.0,78.22,"Cultural Club, Entrepreneurship Cell, Sports Club"
+Kavya,21.0,65.55,"Entrepreneurship Cell, Sports Club"
+Ramya,19.0,84.79,Literary Society
+Vikram,20.0,75.09,Coding Club
+Alex Hernandez,23.0,80.85,Cultural Club
+Vanessa Santiago,21.0,80.7,Entrepreneurship Cell
+Anil,21.0,64.68,"Entrepreneurship Cell, Sports Club"
+Christine Harris,19.0,76.92,Sports Club
+Marc Moore,22.0,77.45,Robotics
+Mercedes Miller,23.0,99.52,"Robotics, Entrepreneurship Cell, Cultural Club"
+Pooja,23.0,89.44,"Cultural Club, Literary Society"
+Christopher Park,22.0,77.85,"Entrepreneurship Cell, Robotics"
+Gregory Cook,22.0,62.61,"Entrepreneurship Cell, Robotics, Cultural Club"
+Meena,18.0,93.96,Sports Club
+Michele Collins,19.0,92.82,"Robotics, Literary Society"
+Ravi,19.0,92.89,Sports Club
+Priya,18.0,84.86,"Cultural Club, Literary Society, Robotics"
+Karan,22.0,78.8,Coding Club
+Anil,21.0,60.16,Literary Society
+Suresh,19.0,84.92,"Sports Club, Coding Club, Entrepreneurship Cell"
+Meena,20.0,72.73,"Coding Club, Sports Club"
+Mark Diaz,18.0,85.37,Sports Club
+Brandy Flores,23.0,91.85,Literary Society
+Monica Anderson,18.0,79.47,"Sports Club, Cultural Club"
+Brenda Bailey,20.0,99.98,"Robotics, Entrepreneurship Cell"
+Richard Alvarez,21.0,88.92,"Coding Club, Sports Club"
+Edwin Nunez,19.0,89.69,"Entrepreneurship Cell, Sports Club"
+Ralph Howe,23.0,62.61,"Cultural Club, Literary Society, Sports Club"
+Jonathan Ayala,20.0,93.61,Entrepreneurship Cell
+Anita,22.0,92.82,"Entrepreneurship Cell, Cultural Club, Sports Club"
+Divya,22.0,71.11,Cultural Club
+Tracie Jordan,20.0,71.33,"Robotics, Sports Club"
+Anil,18.0,70.19,Robotics
+Anita,19.0,92.82,"Robotics, Literary Society"
+Rakhi,23.0,71.6,Entrepreneurship Cell
+Andrew Duran,23.0,99.09,Coding Club
+Caleb Mathews,20.0,84.96,Literary Society
+Cheryl Palmer,18.0,90.57,"Entrepreneurship Cell, Robotics, Coding Club"
+Karan,18.0,81.33,"Sports Club, Coding Club"
+Scott White,21.0,60.05,"Literary Society, Robotics, Sports Club"
+Richard Stewart,19.0,76.73,"Coding Club, Cultural Club, Robotics"
+Douglas Kirk,20.0,74.3,Literary Society
+Arjun,23.0,91.85,Literary Society
+Jordan Clark,21.0,77.36,"Cultural Club, Entrepreneurship Cell, Robotics"
+Meena,22.0,62.14,Sports Club
+Arjun,20.0,78.01,Robotics
+Vikram,22.0,64.94,"Cultural Club, Coding Club"
+Siddharth,22.0,87.41,"Literary Society, Entrepreneurship Cell"
+Bryan Parker,22.0,80.39,Entrepreneurship Cell
+Martha Smith,19.0,64.24,"Sports Club, Literary Society"
+Anil,19.0,68.2,"Robotics, Coding Club, Entrepreneurship Cell"
+Amy Gutierrez,23.0,86.15,"Robotics, Coding Club, Literary Society"
+Louis Brown,18.0,64.11,"Robotics, Coding Club, Cultural Club"
+Kenneth Martin,19.0,91.28,Robotics
+Michael Griffin,22.0,94.12,Coding Club
+Siddharth,18.0,94.11,"Sports Club, Cultural Club, Entrepreneurship Cell"
+Kevin Marquez,23.0,76.52,Literary Society
+Karan,23.0,70.52,Cultural Club
+Divya,19.0,92.43,"Coding Club, Sports Club"
+Divya,21.0,71.43,"Robotics, Entrepreneurship Cell"
+Ramya,23.0,68.03,"Entrepreneurship Cell, Sports Club, Cultural Club"
+Pooja,23.0,91.85,Literary Society
+Neha,18.0,60.72,"Sports Club, Coding Club, Robotics"
+Sonal,23.0,76.12,"Literary Society, Sports Club, Cultural Club"
+Suresh,19.0,60.58,Literary Society
+Suresh,23.0,81.46,"Sports Club, Entrepreneurship Cell, Literary Society"
+David Holden,19.0,84.13,Cultural Club
+John Santana,21.0,89.74,"Entrepreneurship Cell, Coding Club, Sports Club"
+Anil,18.0,90.15,Entrepreneurship Cell
+Brandon Mitchell,22.0,68.6,"Coding Club, Entrepreneurship Cell"
+Ramya,19.0,65.17,"Robotics, Literary Society, Sports Club"
+Brian Rodriguez,21.0,68.42,"Literary Society, Sports Club, Coding Club"
+Karan,23.0,82.25,"Robotics, Literary Society"
+Mandy Green,18.0,68.51,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Lisa Singh,21.0,64.99,Cultural Club
+Siddharth,22.0,68.6,"Coding Club, Entrepreneurship Cell"
+Daniel Medina,18.0,86.08,"Entrepreneurship Cell, Robotics, Literary Society"
+Vikram,22.0,94.12,Coding Club
+Michael Nicholson,22.0,71.7,Entrepreneurship Cell
+Sonal,21.0,63.35,"Coding Club, Cultural Club, Entrepreneurship Cell"
+Steven Martin,20.0,67.03,"Coding Club, Robotics"
+Ramya,18.0,71.47,"Robotics, Cultural Club"
+Kelly Edwards,18.0,92.22,"Entrepreneurship Cell, Cultural Club, Sports Club"
+Sergio Knox,21.0,78.56,"Sports Club, Literary Society"
+Kavya,19.0,97.96,Coding Club
+Martin Rodriguez,19.0,71.71,Sports Club
+Pamela Weaver,21.0,77.21,Sports Club
+Vikram,21.0,73.41,"Literary Society, Robotics, Sports Club"
+Angela Anderson,21.0,95.25,Cultural Club
+Priya,18.0,69.01,"Cultural Club, Sports Club"
+Neha,23.0,76.78,"Cultural Club, Sports Club"
+Sonal,22.0,98.08,"Entrepreneurship Cell, Literary Society, Robotics"
+Edwin Brown,20.0,88.78,"Cultural Club, Robotics"
+Bob Pitts,19.0,93.23,"Literary Society, Sports Club, Robotics"
+Kavya,19.0,98.45,"Literary Society, Cultural Club"
+Jessica Callahan,19.0,97.06,Coding Club
+Marcus Roberts,21.0,65.02,"Entrepreneurship Cell, Cultural Club, Robotics"
+Lori Hill,19.0,66.56,Coding Club
+Anil,19.0,99.38,"Sports Club, Coding Club"
+Ravi,19.0,60.77,"Literary Society, Robotics, Entrepreneurship Cell"
+Sandra Martinez,23.0,94.9,Robotics
+Amit,19.0,60.43,"Robotics, Entrepreneurship Cell"
+Divya,22.0,84.05,Coding Club
+Siddharth,18.0,81.05,"Entrepreneurship Cell, Coding Club"
+Kavya,23.0,84.81,"Robotics, Coding Club"
+Ramya,21.0,62.32,"Entrepreneurship Cell, Sports Club"
+Suresh,18.0,71.32,Robotics
+Gail Lane,19.0,60.43,"Robotics, Entrepreneurship Cell"
+Elizabeth Rogers,19.0,79.11,"Sports Club, Literary Society"
+Rakhi,20.0,67.41,"Entrepreneurship Cell, Cultural Club, Robotics"
+Shane Henderson,21.0,79.78,"Robotics, Sports Club"
+Neha,22.0,99.03,"Literary Society, Cultural Club, Entrepreneurship Cell"
+Kavya,20.0,66.62,Cultural Club
+Suresh,20.0,76.59,Entrepreneurship Cell
+Steven Sandoval,20.0,85.88,"Coding Club, Robotics, Cultural Club"
+Brett Schultz,20.0,65.62,Sports Club
+Pooja,18.0,84.69,"Sports Club, Literary Society, Coding Club"
+Kavya,23.0,97.72,"Literary Society, Cultural Club, Sports Club"
+Rakesh,22.0,75.25,"Literary Society, Robotics, Sports Club"
+Anil,22.0,71.29,"Sports Club, Literary Society, Entrepreneurship Cell"
+Kristie Howe,19.0,85.38,"Sports Club, Entrepreneurship Cell, Cultural Club"
+Miss Anna Estes,18.0,84.86,"Cultural Club, Literary Society, Robotics"
+Timothy Shannon,18.0,84.51,"Robotics, Coding Club, Literary Society"
+Rahul,18.0,66.65,"Sports Club, Entrepreneurship Cell"
+Ravi,18.0,81.6,"Sports Club, Entrepreneurship Cell"
+Keith Zuniga,18.0,86.52,"Literary Society, Cultural Club"
+Robert Gardner,19.0,70.26,"Cultural Club, Entrepreneurship Cell"
+Madeline Powell,18.0,93.74,"Cultural Club, Robotics, Coding Club"
+Albert Morse,20.0,87.1,"Cultural Club, Entrepreneurship Cell, Literary Society"
+Jonathan Perry,20.0,95.58,"Sports Club, Coding Club"
+Karan,18.0,75.19,Entrepreneurship Cell
+Neha,21.0,75.04,"Robotics, Sports Club, Literary Society"
+Ravi,19.0,73.61,"Sports Club, Literary Society, Robotics"
+Rakesh,22.0,96.97,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Rakesh,20.0,60.62,Sports Club
+Ravi,18.0,93.96,Sports Club
+John Blair,18.0,81.6,"Sports Club, Entrepreneurship Cell"
+Arjun,23.0,61.73,"Coding Club, Cultural Club, Robotics"
+Rakesh,18.0,82.97,"Literary Society, Coding Club, Robotics"
+Miguel Jones,19.0,65.99,"Entrepreneurship Cell, Literary Society, Sports Club"
+Anil,22.0,86.48,"Literary Society, Entrepreneurship Cell"
+Kari Durham,21.0,67.64,"Sports Club, Cultural Club"
+Priya,23.0,84.17,"Coding Club, Entrepreneurship Cell"
+Vikram,23.0,61.39,Cultural Club
+Edward Baker,22.0,68.71,Cultural Club
+Wesley Browning,20.0,61.79,Literary Society
+Rahul,19.0,62.57,Cultural Club
+Pooja,19.0,79.11,"Sports Club, Literary Society, Coding Club"
+Anil,21.0,95.19,Entrepreneurship Cell
+Karan,23.0,89.45,"Robotics, Entrepreneurship Cell"
+Lori Brown DDS,21.0,69.79,"Literary Society, Coding Club, Robotics"
+Neha,18.0,61.13,"Coding Club, Cultural Club, Sports Club"
+Scott Cox,18.0,61.13,"Coding Club, Cultural Club, Sports Club"
+Kerry Barajas,20.0,83.26,"Literary Society, Coding Club"
+Kelly Johnson,18.0,66.65,"Sports Club, Entrepreneurship Cell"
+Michael Fuentes,22.0,81.13,Cultural Club
+Cynthia Wallace,19.0,86.28,Coding Club
+Eric Ortiz,19.0,80.61,"Literary Society, Sports Club, Entrepreneurship Cell"
+Rakhi,22.0,61.42,Sports Club
+Carolyn James,21.0,63.07,Robotics
+Robert Dennis,22.0,82.02,Literary Society
+Ryan Gonzalez,20.0,64.37,"Literary Society, Cultural Club, Coding Club"
+Vikram,19.0,94.96,Cultural Club
+Rakhi,23.0,67.38,"Cultural Club, Entrepreneurship Cell, Literary Society"
+Pooja,18.0,89.14,Robotics
+Arjun,18.0,78.54,"Coding Club, Cultural Club"
+Nicholas Payne,21.0,74.41,"Sports Club, Literary Society, Robotics"
+David Garcia,20.0,85.33,"Sports Club, Entrepreneurship Cell"
+Priya,22.0,72.29,"Entrepreneurship Cell, Coding Club, Literary Society"
+Eric Lloyd,22.0,68.08,"Literary Society, Entrepreneurship Cell, Coding Club"
+Amit,22.0,78.22,"Cultural Club, Entrepreneurship Cell, Sports Club"
+Pooja,22.0,71.29,"Robotics, Coding Club"
+Brian Stein,19.0,88.38,Entrepreneurship Cell
+Mrs. Jennifer Morgan,19.0,64.54,Cultural Club
+Kavya,23.0,78.09,Cultural Club
+Gail Barron,23.0,76.29,"Sports Club, Literary Society, Entrepreneurship Cell"
+Rakesh,18.0,61.91,"Coding Club, Robotics, Sports Club"
+Siddharth,23.0,81.53,"Literary Society, Coding Club"
+Dale Dean,18.0,61.61,Coding Club
+Divya,19.0,98.01,"Sports Club, Coding Club"
+Jaime Lang,18.0,87.94,Entrepreneurship Cell
+Kristina Herman,22.0,85.67,"Entrepreneurship Cell, Literary Society"
+Lindsey Smith,20.0,82.96,Coding Club
+Karen Morales DDS,22.0,63.39,"Sports Club, Cultural Club, Robotics"
+Brandon Hunt,19.0,77.98,"Robotics, Sports Club, Literary Society"
+Elizabeth Silva,21.0,93.33,"Literary Society, Sports Club"
+Divya,21.0,68.42,"Literary Society, Sports Club, Coding Club"
+Anil,21.0,67.64,"Sports Club, Cultural Club"
+Beverly Silva,23.0,67.14,"Sports Club, Robotics, Entrepreneurship Cell"
+Timothy Riley,21.0,95.12,Entrepreneurship Cell
+Kavya,22.0,64.94,"Cultural Club, Coding Club"
+Susan Porter,21.0,65.1,"Literary Society, Entrepreneurship Cell, Robotics"
+Ramya,19.0,78.62,Robotics
+Olivia Ayers,23.0,89.29,"Entrepreneurship Cell, Sports Club"
+Nicholas Adams,18.0,72.13,"Sports Club, Literary Society"
+Theresa Barnett,18.0,81.33,"Sports Club, Coding Club"
+Kavya,23.0,63.39,Entrepreneurship Cell
+Melissa Taylor,21.0,84.72,Cultural Club
+Jeremy Baker,23.0,61.39,Cultural Club
+Ravi,23.0,60.62,"Sports Club, Literary Society, Entrepreneurship Cell"
+David Wright,18.0,97.41,"Robotics, Sports Club, Coding Club"
+Sarah Jones,19.0,78.15,Robotics
+Meena,23.0,70.97,"Robotics, Literary Society, Cultural Club"
+Karan,21.0,65.26,"Literary Society, Entrepreneurship Cell"
+Kimberly Arroyo,18.0,89.99,Sports Club
+Claudia Jordan,20.0,62.68,Robotics
+Amit,23.0,65.54,Sports Club
+Amit,20.0,68.32,"Entrepreneurship Cell, Sports Club"
+Carla Gray,18.0,63.85,"Robotics, Literary Society"
+Erica Turner,23.0,67.53,Coding Club
+Nancy Cook,19.0,65.17,"Robotics, Literary Society, Sports Club"
+Rakhi,22.0,71.11,Cultural Club
+Arjun,18.0,85.79,"Literary Society, Sports Club"
+Vikram,22.0,76.85,Sports Club
+Janice Combs,18.0,74.12,Robotics
+Divya,23.0,62.26,"Coding Club, Entrepreneurship Cell"
+Anita,19.0,65.28,"Robotics, Literary Society, Cultural Club"
+Anna Stanley,19.0,72.21,"Cultural Club, Coding Club"
+Clinton Johnson,18.0,97.86,Cultural Club
+Juan Daniels,21.0,76.28,"Robotics, Entrepreneurship Cell"
+Beverly Russo,22.0,89.77,"Cultural Club, Entrepreneurship Cell, Literary Society"
+Rakesh,18.0,79.98,"Robotics, Literary Society"
+Robin Santiago,23.0,66.94,"Cultural Club, Coding Club"
+Christina Hicks,23.0,98.22,"Literary Society, Robotics"
+Karan,18.0,61.13,"Coding Club, Cultural Club, Sports Club"
+Anita,22.0,85.66,Coding Club
+Sarah Barrett,23.0,69.36,"Cultural Club, Robotics"
+Arjun,20.0,86.03,"Literary Society, Entrepreneurship Cell"
+Pooja,18.0,79.62,"Coding Club, Entrepreneurship Cell"
+Reginald Diaz,22.0,90.01,Cultural Club
+Rahul,21.0,91.97,Entrepreneurship Cell
+Jeffrey Smith,23.0,92.66,Cultural Club
+Suresh,19.0,85.51,"Entrepreneurship Cell, Robotics"
+Arjun,18.0,83.41,"Cultural Club, Sports Club"
+Sonal,22.0,97.31,"Coding Club, Literary Society"
+Kavya,23.0,76.52,Literary Society
+Antonio Mccormick,20.0,67.27,Robotics
+Cassandra Gaines,21.0,76.78,"Sports Club, Literary Society, Robotics"
+Laurie Sanchez,18.0,61.46,Literary Society
+Anil,23.0,84.17,"Coding Club, Entrepreneurship Cell"
+Karan,22.0,80.73,"Robotics, Coding Club, Sports Club"
+Sonal,18.0,71.47,"Robotics, Cultural Club"
+Lauren Robles,21.0,67.73,Entrepreneurship Cell
+Michelle Sanders,18.0,60.72,"Sports Club, Coding Club, Robotics"
+Linda Carr,20.0,95.54,Cultural Club
+Kristina Rivera,23.0,60.62,"Sports Club, Literary Society, Entrepreneurship Cell"
+Alison Short,18.0,61.6,Robotics
+Kavya,19.0,64.05,"Entrepreneurship Cell, Robotics"
+Priya,22.0,94.85,"Cultural Club, Literary Society"
+Arjun,21.0,91.97,Entrepreneurship Cell
+Anil,22.0,68.27,"Coding Club, Sports Club, Entrepreneurship Cell"
+Daniel Fisher,23.0,83.69,"Coding Club, Robotics"
+Suresh,23.0,60.62,"Sports Club, Literary Society, Entrepreneurship Cell"
+Vikram,20.0,85.87,"Sports Club, Coding Club, Entrepreneurship Cell"
+Karan,22.0,72.22,Literary Society
+Rakesh,20.0,79.84,Entrepreneurship Cell
+Neha,19.0,62.56,Sports Club
+April Davis,22.0,98.54,"Cultural Club, Entrepreneurship Cell, Sports Club"
+Anil,22.0,64.73,Coding Club
+Aaron Jennings,19.0,71.56,"Robotics, Literary Society"
+Julia Wilson,21.0,92.3,"Literary Society, Coding Club, Cultural Club"
+Divya,23.0,99.85,"Entrepreneurship Cell, Literary Society, Sports Club"
+Kavya,22.0,63.36,Entrepreneurship Cell
+Vikram,23.0,95.82,Cultural Club
+Kevin Hall,23.0,71.18,"Robotics, Coding Club, Cultural Club"
+Shannon Yu,18.0,62.79,Cultural Club
+Timothy Long,20.0,82.41,"Robotics, Entrepreneurship Cell, Literary Society"
+Amit,18.0,98.74,Robotics
+Ramya,23.0,99.52,"Robotics, Entrepreneurship Cell, Cultural Club"
+Anita,19.0,84.79,Literary Society
+Rakesh,19.0,80.5,"Robotics, Coding Club, Cultural Club"
+Cynthia Cochran,22.0,83.72,"Entrepreneurship Cell, Sports Club"
+Mark Newman,19.0,78.74,"Sports Club, Entrepreneurship Cell, Literary Society"
+Arjun,21.0,60.16,Literary Society
+Amit,19.0,66.37,Robotics
+Michael Fischer,18.0,92.91,"Sports Club, Robotics"
+Angelica Garcia,20.0,85.71,"Cultural Club, Entrepreneurship Cell, Robotics"
+Debra Ortiz,23.0,81.34,"Coding Club, Literary Society, Entrepreneurship Cell"
+Divya,20.0,67.37,"Entrepreneurship Cell, Coding Club, Robotics"
+Divya,18.0,92.64,Entrepreneurship Cell
+Meena,20.0,84.65,Sports Club
+Siddharth,19.0,84.74,Robotics
+Scott Gordon,22.0,60.04,"Robotics, Entrepreneurship Cell"
+Allen Rosales,18.0,76.12,"Coding Club, Literary Society, Sports Club"
+Kimberly Smith,21.0,60.13,Coding Club
+Neha,18.0,79.01,Cultural Club
+Karan,19.0,88.33,Robotics
+William Moon IV,19.0,91.69,"Entrepreneurship Cell, Cultural Club, Coding Club"
+Melissa Brewer,23.0,77.21,Literary Society
+Phillip Burns,20.0,75.08,"Literary Society, Sports Club, Cultural Club"
+Divya,20.0,78.24,"Entrepreneurship Cell, Coding Club, Cultural Club"
+David Trujillo,22.0,64.46,Coding Club
+Michael Lopez,18.0,98.87,"Coding Club, Literary Society, Cultural Club"
+Brenda Wright,18.0,71.03,"Coding Club, Robotics"
+Mark Smith,19.0,91.43,"Entrepreneurship Cell, Literary Society, Cultural Club"
+Kevin Alvarado,21.0,84.85,"Sports Club, Coding Club, Cultural Club"
+Kelli Smith,18.0,60.75,Cultural Club
+Jay Allen,19.0,90.23,"Literary Society, Entrepreneurship Cell, Robotics"
+Danielle Wheeler,21.0,98.72,Coding Club
+Arjun,18.0,79.47,"Sports Club, Cultural Club"
+Anita,19.0,65.45,"Literary Society, Coding Club"
+Kelly Welch,19.0,83.45,"Sports Club, Literary Society"
+Jessica Rojas,18.0,72.54,"Robotics, Literary Society"
+John Brown,21.0,95.63,"Coding Club, Robotics, Sports Club"
+Priya,18.0,93.88,"Cultural Club, Sports Club, Robotics"
+Suresh,23.0,66.73,"Entrepreneurship Cell, Coding Club"
+Christopher Bernard,22.0,74.34,Entrepreneurship Cell
+Karan,23.0,99.46,"Sports Club, Entrepreneurship Cell, Literary Society"
+Ramya,23.0,94.0,"Robotics, Sports Club"
+Rhonda Martin,18.0,87.29,"Cultural Club, Sports Club"
+Meena,22.0,63.61,"Sports Club, Robotics"
+Meena,23.0,83.75,"Entrepreneurship Cell, Robotics"
+Bradley Santana,18.0,74.51,Cultural Club
+Anil,21.0,79.1,Cultural Club
+Meena,19.0,70.26,"Cultural Club, Entrepreneurship Cell"
+Kenneth Perez,22.0,84.75,"Robotics, Entrepreneurship Cell"
+Amit,19.0,78.74,"Sports Club, Entrepreneurship Cell, Literary Society"
+Steven Wallace,21.0,79.13,Coding Club
+Pooja,18.0,82.97,"Literary Society, Coding Club, Robotics"
+Karan,19.0,84.41,"Entrepreneurship Cell, Sports Club, Cultural Club"
+Thomas Brown,18.0,89.79,Literary Society
+Cody Cox,21.0,90.38,Entrepreneurship Cell
+Arjun,18.0,92.22,"Entrepreneurship Cell, Cultural Club, Sports Club"
+Ravi,22.0,86.48,"Literary Society, Entrepreneurship Cell"
+Renee Wolfe,20.0,68.95,"Literary Society, Robotics, Coding Club"
+Daniel Baker,22.0,75.66,"Entrepreneurship Cell, Robotics, Coding Club"
+Vikram,22.0,63.18,"Entrepreneurship Cell, Cultural Club, Coding Club"
+Tracey Phillips,23.0,79.68,"Coding Club, Cultural Club, Entrepreneurship Cell"
+Michael Smith,18.0,92.72,"Entrepreneurship Cell, Coding Club"
+Divya,20.0,75.08,"Literary Society, Sports Club, Cultural Club"
+Siddharth,23.0,74.5,"Cultural Club, Coding Club, Literary Society"
+Suresh,19.0,73.61,"Sports Club, Literary Society, Robotics"
+Jasmine Bush,20.0,89.64,"Literary Society, Robotics"
+Michael Meadows,20.0,97.24,"Coding Club, Robotics, Sports Club"
+Jason Hudson,18.0,91.81,"Literary Society, Cultural Club"
+Megan Floyd,22.0,60.77,"Sports Club, Robotics"
+Lori Hernandez,19.0,62.14,"Coding Club, Entrepreneurship Cell, Literary Society"
+Kathleen Burton,21.0,67.3,"Cultural Club, Literary Society, Robotics"
+Tricia Valencia,20.0,73.13,"Literary Society, Coding Club"
+Meghan White,22.0,87.45,Cultural Club
+Jeff Owens,18.0,83.41,"Cultural Club, Sports Club"
+Kim Lopez,19.0,73.34,Cultural Club
+Meena,22.0,65.77,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Brian Mora,21.0,89.04,Entrepreneurship Cell
+Rakesh,21.0,77.21,Sports Club
+Autumn Key,22.0,63.36,Entrepreneurship Cell
+Andrew Fernandez,22.0,61.81,"Coding Club, Sports Club"
+Blake Watson,22.0,78.0,Sports Club
+Katelyn Rivera,20.0,79.27,"Coding Club, Robotics, Entrepreneurship Cell"
+Vikram,22.0,71.68,"Cultural Club, Robotics, Literary Society"
+Ramya,21.0,89.78,Sports Club
+Ravi,22.0,62.14,Sports Club
+Anthony Romero,22.0,96.63,"Robotics, Entrepreneurship Cell"
+Neha,21.0,92.29,"Sports Club, Coding Club"
+Kavya,23.0,92.66,Cultural Club
+Amy Scott,21.0,79.94,"Robotics, Sports Club, Coding Club"
+Priya,20.0,82.41,"Robotics, Entrepreneurship Cell, Literary Society"
+Anthony Bell,18.0,67.96,Sports Club
+Katrina Hill,19.0,76.86,"Literary Society, Sports Club"
+David Sullivan,19.0,73.03,"Sports Club, Cultural Club, Entrepreneurship Cell"
+Shawn Kelley,22.0,96.95,"Literary Society, Coding Club, Robotics"
+Sonal,18.0,68.48,"Sports Club, Entrepreneurship Cell, Cultural Club"
+Samantha Robertson,21.0,63.35,"Coding Club, Cultural Club, Entrepreneurship Cell"
+Michael Roberson,22.0,86.81,"Sports Club, Literary Society"
+Kavya,18.0,87.29,"Cultural Club, Sports Club"
+Francis Robinson,18.0,91.46,Coding Club
+Pooja,19.0,76.73,"Coding Club, Cultural Club, Robotics"
+Ann Williams,22.0,79.41,Entrepreneurship Cell
+Katherine Salas,19.0,98.74,Cultural Club
+Divya,22.0,71.33,Cultural Club
+Anita,19.0,93.23,"Literary Society, Sports Club, Robotics"
+Rakhi,22.0,78.93,"Entrepreneurship Cell, Coding Club, Sports Club"
+Ann Powers,19.0,73.54,"Cultural Club, Robotics, Entrepreneurship Cell"
+Joshua Harvey,22.0,68.67,"Sports Club, Robotics"
+Vikram,20.0,77.51,Entrepreneurship Cell
+Teresa Rodriguez,23.0,99.04,"Robotics, Sports Club, Entrepreneurship Cell"
+Siddharth,18.0,60.53,"Sports Club, Robotics, Coding Club"
+Michelle Krause,18.0,85.79,"Literary Society, Sports Club"
+Priya,23.0,93.37,"Robotics, Sports Club, Literary Society"
+Amit,23.0,77.34,"Coding Club, Robotics"
+Joshua Arellano,22.0,98.13,"Cultural Club, Coding Club"
+Robert Lawson,19.0,79.06,Literary Society
+Danielle Wilson,22.0,97.64,"Entrepreneurship Cell, Coding Club, Cultural Club"
+Erin Smith,19.0,67.32,"Literary Society, Sports Club, Cultural Club"
+Meena,19.0,88.94,Literary Society
+Rahul,20.0,76.71,Literary Society
+Kavya,20.0,61.3,"Entrepreneurship Cell, Sports Club, Robotics"
+Priya,23.0,99.85,"Entrepreneurship Cell, Literary Society, Sports Club"
+Kathleen Rodriguez,20.0,74.93,"Robotics, Coding Club"
+Anita,22.0,96.95,"Literary Society, Coding Club, Robotics"
+Karan,18.0,87.66,"Literary Society, Sports Club, Cultural Club"
+Michael Dixon,22.0,74.2,"Entrepreneurship Cell, Coding Club"
+Katie Hoover,23.0,94.74,Sports Club
+Amit,23.0,80.2,Entrepreneurship Cell
+Anil,19.0,60.58,Literary Society
+Stephanie Ross,22.0,97.62,"Robotics, Literary Society"
+Anil,21.0,91.71,Literary Society
+Ramya,20.0,89.66,"Sports Club, Coding Club"
+Vikram,22.0,65.67,Sports Club
+Anna Morse,22.0,69.96,"Sports Club, Cultural Club, Coding Club"
+Rakesh,22.0,94.12,Coding Club
+Curtis Watson,20.0,91.52,"Sports Club, Literary Society, Coding Club"
+Amit,18.0,71.03,"Coding Club, Robotics"
+Pooja,22.0,61.78,"Coding Club, Robotics"
+Kavya,18.0,85.37,Sports Club
+Priya,18.0,70.75,"Robotics, Cultural Club, Sports Club"
+Patrick Mcneil,23.0,63.39,Robotics
+Rahul,20.0,64.88,Robotics
+Richard Cooper,22.0,78.71,"Robotics, Sports Club"
+Diane Mcdowell,20.0,67.41,"Entrepreneurship Cell, Cultural Club, Robotics"
+Ramya,23.0,73.28,"Robotics, Cultural Club"
+Amanda Reese,21.0,78.47,Cultural Club
+Theresa Miller,22.0,83.22,"Entrepreneurship Cell, Cultural Club, Coding Club"
+Arjun,23.0,88.84,"Robotics, Literary Society"
+Michael Guerrero,19.0,85.13,"Literary Society, Sports Club, Coding Club"
+Kavya,18.0,71.84,"Sports Club, Cultural Club"
+Kavya,20.0,93.84,"Entrepreneurship Cell, Cultural Club"
+Ashley Jordan,23.0,90.59,"Literary Society, Sports Club, Entrepreneurship Cell"
+Jerry Henderson,19.0,99.22,Literary Society
+Matthew Wells,18.0,82.59,"Sports Club, Cultural Club"
+Rakesh,21.0,73.72,"Entrepreneurship Cell, Cultural Club"
+Rakesh,21.0,91.45,Robotics
+Jessica Johnson,19.0,70.44,"Cultural Club, Entrepreneurship Cell"
+Meena,21.0,72.15,"Cultural Club, Literary Society"
+Sonal,19.0,88.94,Literary Society
+Michael Gregory,23.0,61.4,"Cultural Club, Robotics, Coding Club"
+Pooja,20.0,87.58,"Entrepreneurship Cell, Cultural Club"
+Elizabeth Rodriguez,19.0,71.65,"Sports Club, Coding Club"
+Rakesh,19.0,94.96,Cultural Club
+Neha,21.0,60.09,"Coding Club, Sports Club, Cultural Club"
+Suresh,23.0,74.06,"Literary Society, Sports Club"
+Pooja,22.0,66.39,Literary Society
+Karan,19.0,65.6,"Coding Club, Cultural Club"
+Rahul,19.0,80.6,Literary Society
+Meena,20.0,73.39,Literary Society
+Siddharth,23.0,96.08,Coding Club
+Dawn Wyatt,21.0,77.94,"Cultural Club, Coding Club"
+Amit,22.0,86.0,"Sports Club, Robotics, Coding Club"
+Michael Armstrong,23.0,68.28,"Literary Society, Robotics, Cultural Club"
+Michael Woods,19.0,97.65,"Sports Club, Cultural Club, Coding Club"
+Pooja,20.0,86.72,"Literary Society, Robotics, Entrepreneurship Cell"
+Wendy Rhodes,20.0,87.58,"Entrepreneurship Cell, Cultural Club"
+Ramya,19.0,86.28,Coding Club
+Kelly Hendrix,22.0,78.8,Coding Club
+Charles Richardson,20.0,99.95,Sports Club
+Juan Tran,22.0,85.72,Cultural Club
+Anil,18.0,90.39,Entrepreneurship Cell
+Rahul,23.0,63.39,Entrepreneurship Cell
+Breanna Ayala,21.0,96.16,"Coding Club, Cultural Club"
+Ramya,22.0,95.15,"Literary Society, Sports Club, Cultural Club"
+Ramya,22.0,61.42,Sports Club
+Karan,22.0,61.68,"Robotics, Entrepreneurship Cell"
+Rachael Pearson,22.0,62.93,"Literary Society, Robotics, Entrepreneurship Cell"
+Sonal,19.0,97.65,"Sports Club, Cultural Club, Coding Club"
+Amit,19.0,79.11,"Sports Club, Literary Society"
+Amanda Guzman,22.0,79.04,"Sports Club, Entrepreneurship Cell, Coding Club"
+Meena,21.0,67.17,"Robotics, Cultural Club"
+Anita,21.0,76.28,"Robotics, Entrepreneurship Cell"
+Matthew Mcmillan,22.0,73.83,"Cultural Club, Robotics"
+Barbara Dudley,21.0,61.24,Entrepreneurship Cell
+Tammy Boone,21.0,76.94,Robotics
+Neha,18.0,61.25,"Coding Club, Robotics, Sports Club"
+Amanda Logan,20.0,82.4,"Literary Society, Sports Club, Coding Club"
+Karan,23.0,63.39,Entrepreneurship Cell
+Priya,23.0,86.15,"Robotics, Coding Club, Literary Society"
+Priya,21.0,94.13,"Coding Club, Entrepreneurship Cell, Cultural Club"
+Dylan Miller,23.0,97.72,"Literary Society, Cultural Club, Sports Club"
+Anil,22.0,72.98,"Cultural Club, Coding Club, Literary Society"
+Sonal,18.0,60.53,"Literary Society, Robotics"
+Rahul,20.0,60.72,"Sports Club, Robotics, Literary Society"
+Justin Vargas,18.0,62.54,"Cultural Club, Sports Club, Robotics"
+Andrea Davis,19.0,94.96,Cultural Club
+Rahul,21.0,61.47,"Robotics, Cultural Club"
+Kenneth Huff,23.0,60.1,"Coding Club, Cultural Club, Entrepreneurship Cell"
+Ramya,21.0,82.13,Entrepreneurship Cell
+Claudia Rodriguez,22.0,85.02,Cultural Club
+Rakesh,22.0,91.45,"Entrepreneurship Cell, Cultural Club"
+Arjun,22.0,71.29,"Sports Club, Literary Society, Entrepreneurship Cell"
+Roger Adams,21.0,72.44,Sports Club
+Jennifer Hampton,20.0,91.76,Entrepreneurship Cell
+Suresh,21.0,92.75,Robotics
+Bonnie Bennett,19.0,90.3,"Entrepreneurship Cell, Cultural Club"
+Vikram,20.0,85.35,"Sports Club, Entrepreneurship Cell, Coding Club"
+Kavya,20.0,67.47,Literary Society
+Meena,20.0,95.54,Cultural Club
+Christina Dunn,19.0,69.59,Coding Club
+Jim Baker,21.0,90.89,Entrepreneurship Cell
+Shannon Green,18.0,82.02,"Literary Society, Robotics"
+Pooja,18.0,61.44,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Arjun,19.0,89.39,"Sports Club, Robotics"
+Nancy Stewart,19.0,96.23,"Entrepreneurship Cell, Cultural Club"
+Ravi,18.0,76.21,Cultural Club
+Kirk Johnson,22.0,68.46,Cultural Club
+Mackenzie Martin,21.0,75.0,"Coding Club, Entrepreneurship Cell"
+Rakesh,18.0,65.37,"Literary Society, Sports Club, Robotics"
+Ramya,18.0,78.56,"Literary Society, Sports Club, Robotics"
+Michael Roberts,21.0,91.71,Literary Society
+Anil,20.0,85.04,Entrepreneurship Cell
+Rahul,22.0,64.73,Coding Club
+Kristin Anderson,18.0,98.73,"Robotics, Literary Society, Entrepreneurship Cell"
+Ashley Lopez,22.0,94.92,Literary Society
+Karan,21.0,63.31,"Sports Club, Robotics, Entrepreneurship Cell"
+Cheryl Rhodes,21.0,92.11,"Coding Club, Sports Club, Cultural Club"
+Meena,19.0,62.14,"Coding Club, Entrepreneurship Cell, Literary Society"
+Brian Perry,22.0,96.83,"Sports Club, Literary Society, Robotics"
+Anil,18.0,89.79,Literary Society
+Nicole Morgan,21.0,78.31,Literary Society
+Anita,18.0,70.19,Robotics
+Priya,18.0,82.63,"Literary Society, Robotics, Sports Club"
+Stephen Alvarez,21.0,99.96,"Literary Society, Entrepreneurship Cell"
+Miss Debra Williams PhD,18.0,93.88,"Cultural Club, Sports Club, Robotics"
+Suzanne Norton,22.0,93.87,"Coding Club, Cultural Club"
+Priya,21.0,65.02,"Entrepreneurship Cell, Cultural Club, Robotics"
+Charles Delgado,21.0,72.84,"Literary Society, Entrepreneurship Cell, Sports Club"
+Savannah Garcia,19.0,91.7,"Coding Club, Literary Society, Entrepreneurship Cell"
+Amit,20.0,61.79,Literary Society
+Christopher Davis,21.0,81.52,"Robotics, Entrepreneurship Cell"
+Dana Thomas,23.0,71.19,"Coding Club, Sports Club, Robotics"
+Kimberly Morris,19.0,89.21,"Literary Society, Coding Club, Entrepreneurship Cell"
+Arjun,21.0,61.24,Entrepreneurship Cell
+James Webster,22.0,65.77,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Denise King,23.0,62.58,"Literary Society, Robotics"
+Pooja,23.0,92.0,"Cultural Club, Sports Club, Coding Club"
+Charles Lester,21.0,83.65,"Sports Club, Coding Club, Literary Society"
+Vikram,20.0,80.9,"Entrepreneurship Cell, Cultural Club"
+Louis Diaz,22.0,63.74,"Cultural Club, Literary Society, Entrepreneurship Cell"
+Ronald Jones,21.0,73.41,"Literary Society, Robotics, Sports Club"
+Meena,20.0,82.4,"Literary Society, Sports Club, Coding Club"
+Vikram,21.0,89.22,Coding Club
+Siddharth,23.0,75.16,Robotics
+Rahul,18.0,82.59,"Sports Club, Cultural Club"
+Anita,22.0,83.22,"Entrepreneurship Cell, Cultural Club, Coding Club"
+Neha,22.0,88.71,"Robotics, Coding Club, Literary Society"
+Siddharth,19.0,70.38,"Entrepreneurship Cell, Literary Society"
+Kavya,22.0,96.83,"Sports Club, Literary Society, Robotics"
+Timothy Johnson,18.0,77.85,"Sports Club, Entrepreneurship Cell, Coding Club"
+Neha,18.0,80.89,"Cultural Club, Sports Club, Literary Society"
+Angela Baker,21.0,84.85,Coding Club
+Sonal,20.0,86.8,Cultural Club
+Heather Lane,18.0,88.56,"Sports Club, Literary Society"
+Chris Cannon,22.0,89.85,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Javier Johnson,20.0,60.53,Robotics
+Sandra Zimmerman,19.0,98.47,"Sports Club, Literary Society, Coding Club"
+Anthony Walker,22.0,72.14,"Literary Society, Robotics, Coding Club"
+Siddharth,20.0,60.62,Sports Club
+Tiffany Wilson,21.0,97.57,"Literary Society, Sports Club, Coding Club"
+Karan,18.0,98.06,"Cultural Club, Entrepreneurship Cell"
+Pooja,22.0,87.41,"Literary Society, Entrepreneurship Cell"
+Meena,20.0,74.98,"Robotics, Literary Society, Coding Club"
+Ramya,18.0,96.55,"Sports Club, Coding Club"
+Kavya,23.0,79.86,"Cultural Club, Entrepreneurship Cell"
+Vikram,20.0,81.67,"Entrepreneurship Cell, Robotics, Sports Club"
+Kavya,23.0,94.94,"Robotics, Entrepreneurship Cell, Coding Club"
+Rakesh,20.0,82.96,Coding Club
+Justin Russell,22.0,62.5,"Sports Club, Robotics, Literary Society"
+Amit,18.0,65.18,"Entrepreneurship Cell, Robotics, Sports Club"
+Ramya,19.0,98.92,Literary Society
+Ravi,21.0,72.15,"Cultural Club, Literary Society"
+Neha,22.0,69.23,"Cultural Club, Coding Club, Entrepreneurship Cell"
+Siddharth,22.0,64.68,"Entrepreneurship Cell, Coding Club, Cultural Club"
+Neha,19.0,95.62,"Sports Club, Robotics, Entrepreneurship Cell"
+Meena,21.0,60.09,"Coding Club, Sports Club, Cultural Club"
+Suresh,22.0,60.33,Robotics
+Heather Lopez,23.0,93.37,"Robotics, Sports Club, Literary Society"
+Divya,19.0,62.45,"Robotics, Sports Club, Coding Club"
+Rahul,18.0,87.1,"Cultural Club, Coding Club, Sports Club"
+Anita,19.0,72.0,"Coding Club, Cultural Club, Sports Club"
+Suresh,18.0,71.84,"Sports Club, Cultural Club"
+Brittany Hopkins,19.0,76.01,Literary Society
+Michael Rogers,23.0,91.6,Coding Club
+Kavya,21.0,82.13,Entrepreneurship Cell
+Divya,18.0,75.09,"Sports Club, Cultural Club"
+Kathy Cruz,21.0,70.45,"Literary Society, Robotics"
+Rakhi,20.0,73.64,"Coding Club, Entrepreneurship Cell, Literary Society"
+Vikram,20.0,72.19,"Literary Society, Coding Club"
+Brian Cole,18.0,87.66,"Literary Society, Sports Club, Cultural Club"
+Ross Hood,23.0,72.53,Robotics
+Kenneth Hanna,22.0,64.73,Coding Club
+Ramya,23.0,71.18,"Robotics, Coding Club, Cultural Club"
+Anita,22.0,87.41,"Literary Society, Entrepreneurship Cell"
+Amit,23.0,74.06,"Literary Society, Sports Club"
+Rakesh,19.0,92.89,Sports Club
+Amit,18.0,69.61,"Cultural Club, Entrepreneurship Cell"
+Pooja,21.0,61.52,Cultural Club
+Anil,21.0,89.22,Coding Club
+Sonal,23.0,71.52,"Coding Club, Entrepreneurship Cell, Literary Society"
+Amit,19.0,77.98,"Robotics, Sports Club, Literary Society"
+Karan,18.0,70.1,"Cultural Club, Robotics"
+Divya,21.0,87.45,"Literary Society, Sports Club"
+Sonal,19.0,86.84,"Robotics, Sports Club"
+Divya,19.0,70.26,"Cultural Club, Entrepreneurship Cell"
+Sonal,23.0,83.29,"Cultural Club, Sports Club"
+Ravi,23.0,83.07,Sports Club
+Jane Chapman,19.0,87.38,Coding Club
+Joseph Glover,21.0,64.56,Cultural Club
+Amit,19.0,91.35,"Cultural Club, Robotics"
+Karan,19.0,72.69,"Cultural Club, Sports Club"
+William Johnson,21.0,63.18,Sports Club
+Victor Nelson,22.0,96.01,"Literary Society, Cultural Club"
+Daniel Fox,21.0,73.67,"Cultural Club, Literary Society, Coding Club"
+Amit,19.0,93.14,"Cultural Club, Robotics"
+Karan,22.0,89.77,"Cultural Club, Entrepreneurship Cell, Literary Society"
+Arjun,23.0,63.39,Entrepreneurship Cell
+Suresh,23.0,99.52,"Robotics, Entrepreneurship Cell, Cultural Club"
+Kimberly Myers,23.0,63.76,"Robotics, Coding Club, Entrepreneurship Cell"
+Pooja,21.0,96.16,"Coding Club, Cultural Club"
+Curtis Elliott,22.0,62.14,Sports Club
+Meena,20.0,63.29,"Sports Club, Robotics"
+Rahul,21.0,87.92,"Sports Club, Literary Society, Entrepreneurship Cell"
+Elizabeth Miller,23.0,76.78,"Cultural Club, Sports Club"
+Anita,20.0,77.43,"Literary Society, Sports Club, Robotics"
+Rahul,18.0,77.59,"Literary Society, Coding Club"
+Rodney Williams,19.0,92.06,Entrepreneurship Cell
+Arjun,23.0,94.48,"Literary Society, Robotics, Cultural Club"
+Paul Castaneda,23.0,86.27,"Coding Club, Robotics, Entrepreneurship Cell"
+Anil,18.0,69.71,Literary Society
+Michael Thompson,19.0,60.43,"Entrepreneurship Cell, Cultural Club, Sports Club"
+Pooja,19.0,72.08,"Cultural Club, Coding Club, Sports Club"
+Vanessa Rowe,23.0,98.33,Entrepreneurship Cell
+Karen Smith,19.0,60.23,Coding Club
+Anil,20.0,64.16,"Entrepreneurship Cell, Coding Club, Robotics"
+Meena,19.0,79.57,Literary Society
+Divya,20.0,72.53,Coding Club
+Jamie Lopez,20.0,72.86,"Cultural Club, Robotics, Coding Club"
+Ramya,21.0,66.7,Cultural Club
+Kavya,22.0,61.78,"Coding Club, Robotics"
+Richard Palmer,18.0,90.15,Entrepreneurship Cell
+Alexis Harris,19.0,62.57,Cultural Club
+Andrew Moreno,18.0,64.33,"Entrepreneurship Cell, Robotics, Cultural Club"
+Joseph Lopez,20.0,84.65,Sports Club
+Eric Brown,23.0,93.54,"Cultural Club, Robotics, Entrepreneurship Cell"
+Jonathon Johnson,23.0,62.65,"Sports Club, Cultural Club"
+Karan,18.0,67.07,Entrepreneurship Cell
+Rakesh,19.0,89.39,"Sports Club, Robotics"
+Divya,19.0,76.74,"Coding Club, Literary Society"
+Neha,23.0,83.39,"Cultural Club, Entrepreneurship Cell, Sports Club"
+Lindsay Guerrero,23.0,98.47,Literary Society
+Neha,20.0,85.83,"Coding Club, Sports Club, Cultural Club"
+Zachary Burton,21.0,79.23,"Robotics, Coding Club, Sports Club"
+Suresh,20.0,65.62,Sports Club
+Victoria Camacho,22.0,94.85,"Cultural Club, Literary Society"
+Neha,19.0,95.55,"Cultural Club, Coding Club"
+Maria Fischer,21.0,91.45,Robotics
+Tommy Moore,19.0,85.16,Entrepreneurship Cell
+John Anderson,19.0,87.44,"Sports Club, Coding Club, Literary Society"
+Michael Martin,20.0,80.9,"Entrepreneurship Cell, Cultural Club"
+Vikram,18.0,72.13,"Sports Club, Literary Society"
+Rakesh,23.0,86.2,Robotics
+Felicia Krueger,18.0,91.65,Coding Club
+Christina Barker,23.0,89.24,"Coding Club, Sports Club, Literary Society"
+Karan,20.0,73.45,"Entrepreneurship Cell, Robotics"
+Ravi,21.0,63.96,"Entrepreneurship Cell, Literary Society"
+Wanda Ramos,21.0,85.67,Entrepreneurship Cell
+Mr. Larry Shaw,20.0,85.87,"Sports Club, Coding Club, Entrepreneurship Cell"
+Richard Sanchez,20.0,61.3,"Entrepreneurship Cell, Sports Club, Robotics"
+Matthew Moore,21.0,83.53,"Robotics, Coding Club"
+Rahul,21.0,69.47,Literary Society
+James Brown,21.0,64.83,Coding Club
+Pooja,20.0,68.19,"Robotics, Coding Club, Cultural Club"
+Mr. Andrew Foster,19.0,88.94,Literary Society
+Priya,20.0,84.65,Sports Club
+Rakesh,20.0,85.47,Robotics
+Amy Kelley,21.0,65.26,"Literary Society, Entrepreneurship Cell"
+Virginia Daniels,23.0,92.01,"Coding Club, Cultural Club"
+Crystal Mann,20.0,60.28,Robotics
+Anita,23.0,61.73,"Coding Club, Cultural Club, Robotics"
+Ashley Pacheco,22.0,60.87,Sports Club
+Joshua Garcia,18.0,93.73,Sports Club
+Neha,20.0,62.68,Robotics
+Neha,20.0,93.92,Entrepreneurship Cell
+Rakhi,20.0,88.78,"Cultural Club, Robotics"
+Siddharth,19.0,89.39,"Sports Club, Robotics"
+Carl Green,23.0,80.04,Robotics
+Siddharth,23.0,76.12,"Literary Society, Sports Club, Cultural Club"
+Siddharth,21.0,73.41,"Literary Society, Robotics, Sports Club"
+Patricia Smith,22.0,78.76,"Coding Club, Sports Club, Robotics"
+Vikram,18.0,71.87,Literary Society
+Timothy Pham,23.0,60.44,"Entrepreneurship Cell, Robotics, Sports Club"
+Ramya,18.0,85.61,"Sports Club, Cultural Club, Coding Club"
+Emily Rios,23.0,60.72,"Cultural Club, Sports Club, Literary Society"
+Anil,20.0,78.34,"Coding Club, Sports Club, Literary Society"
+Pooja,19.0,91.7,"Coding Club, Literary Society, Entrepreneurship Cell"
+Sharon Martinez DVM,20.0,60.62,Sports Club
+Garrett Meyer,18.0,89.46,"Coding Club, Robotics"
+Vincent Dalton,23.0,75.79,"Robotics, Literary Society"
+Julie Howard,19.0,77.97,"Coding Club, Cultural Club"
+Brent Rodgers,20.0,86.88,"Sports Club, Robotics, Cultural Club"
+John Mendez,22.0,97.31,"Coding Club, Literary Society"
+Kavya,22.0,90.01,Cultural Club
+Frank Soto,21.0,76.45,Coding Club
+Erin Austin,19.0,61.59,"Literary Society, Sports Club"
+Arjun,20.0,83.26,"Literary Society, Coding Club"
+Melissa Phillips,23.0,93.56,Coding Club
+Rakhi,19.0,71.74,Robotics
+Sergio Gomez,22.0,72.31,"Entrepreneurship Cell, Robotics"
+Vikram,22.0,66.39,Literary Society
+Anita,23.0,74.06,"Literary Society, Sports Club"
+Neha,20.0,84.65,Sports Club
+Ramya,22.0,83.69,Entrepreneurship Cell
+Arjun,22.0,60.84,"Sports Club, Entrepreneurship Cell, Cultural Club"
+Mr. David Hopkins DDS,20.0,71.08,"Literary Society, Robotics, Entrepreneurship Cell"
+Anita,22.0,96.63,"Robotics, Entrepreneurship Cell"
+Victor Hill,22.0,68.26,"Literary Society, Entrepreneurship Cell, Cultural Club"
+Ramya,21.0,95.12,Entrepreneurship Cell
+Ashley Singleton,20.0,97.12,Robotics
+Douglas Tyler,18.0,90.35,"Sports Club, Entrepreneurship Cell"
+Phillip Clark,20.0,82.53,"Coding Club, Cultural Club"
+Patrick Thornton,22.0,71.11,Cultural Club
+Pooja,19.0,79.11,"Sports Club, Literary Society"
+Brittney Hernandez,19.0,97.96,Coding Club
+Michael Shaffer,21.0,60.09,"Coding Club, Sports Club, Cultural Club"
+Mitchell Griffith,20.0,67.05,"Robotics, Literary Society"
+Anil,18.0,75.19,Entrepreneurship Cell
+Priya,20.0,70.55,"Robotics, Cultural Club"
+Ravi,21.0,95.6,"Coding Club, Literary Society, Sports Club"
+Suresh,22.0,93.87,"Coding Club, Cultural Club"
+Jason Pierce,21.0,88.24,"Entrepreneurship Cell, Robotics"
+Sonal,19.0,80.6,Literary Society
+Sonal,18.0,80.89,"Cultural Club, Sports Club, Literary Society"
+Kavya,20.0,88.78,"Cultural Club, Robotics"
+Arjun,18.0,61.91,"Coding Club, Robotics, Sports Club"
+Rakesh,18.0,67.63,"Literary Society, Robotics, Cultural Club"
+Meena,19.0,70.44,"Cultural Club, Entrepreneurship Cell"
+Anita,20.0,94.54,"Robotics, Cultural Club, Sports Club"
+Anthony Harmon,23.0,73.01,"Coding Club, Literary Society, Cultural Club"
+Richard Aguirre,20.0,61.05,"Entrepreneurship Cell, Robotics, Cultural Club"
+William Nguyen,19.0,93.7,"Literary Society, Coding Club"
+James Cross,18.0,96.22,"Sports Club, Literary Society"
+Rahul,18.0,60.05,"Cultural Club, Literary Society"
+Siddharth,19.0,69.07,"Sports Club, Literary Society, Coding Club"
+Arjun,18.0,61.25,"Coding Club, Robotics, Sports Club"
+Anil,19.0,69.49,"Sports Club, Literary Society, Cultural Club"
+Francisco Fernandez,23.0,99.85,"Entrepreneurship Cell, Literary Society, Sports Club"
+Suresh,22.0,90.22,"Cultural Club, Literary Society"
+Dawn Diaz,22.0,65.95,Robotics
+Stephen Johnson,22.0,94.2,"Entrepreneurship Cell, Cultural Club, Sports Club"
+Siddharth,21.0,73.57,"Sports Club, Literary Society, Coding Club"
+Sandy Baker,18.0,98.74,Robotics
+Lance Wolf,23.0,65.54,Sports Club
+Ethan Adams,22.0,66.47,"Literary Society, Robotics"
+Sarah King,23.0,85.68,Sports Club
+Isaac Patterson,22.0,71.23,Entrepreneurship Cell
+Kimberly Valdez,18.0,79.98,"Robotics, Literary Society"
+Rakhi,21.0,73.67,"Cultural Club, Literary Society, Coding Club"
+Sarah Phelps,22.0,63.1,"Entrepreneurship Cell, Cultural Club, Literary Society"
+Kelly Le,19.0,99.17,Cultural Club
+Kimberly Adams,23.0,62.07,Sports Club
+Sarah Pittman,19.0,93.14,"Cultural Club, Robotics"
+Amit,23.0,66.61,"Sports Club, Entrepreneurship Cell"
+Rakesh,23.0,92.0,"Cultural Club, Sports Club, Coding Club"
+Priya,21.0,67.73,Entrepreneurship Cell
+Rakhi,21.0,91.07,"Cultural Club, Sports Club"
+Robert Mendoza,22.0,78.97,Coding Club
+Ramya,19.0,76.86,"Literary Society, Sports Club"
+Anita,18.0,72.13,"Sports Club, Literary Society"
+Pooja,22.0,60.26,"Literary Society, Robotics"
+Christopher Berry,18.0,80.89,"Cultural Club, Sports Club, Literary Society"
+Sonal,19.0,66.56,Coding Club
+Ashley Jenkins,22.0,92.82,Entrepreneurship Cell
+Jacqueline Christian,20.0,79.84,Entrepreneurship Cell
+Jordan Chambers,23.0,89.45,"Robotics, Entrepreneurship Cell"
+Rakesh,21.0,65.43,Robotics
+Sean White,21.0,77.1,"Coding Club, Entrepreneurship Cell"
+Kara Sandoval,19.0,80.5,"Robotics, Coding Club, Cultural Club"
+Meena,22.0,63.1,"Entrepreneurship Cell, Cultural Club, Literary Society"
+Meena,22.0,96.43,Cultural Club
+Brenda Moreno MD,19.0,77.92,"Cultural Club, Coding Club"
+Sonal,22.0,63.39,"Sports Club, Cultural Club, Robotics"
+Lisa Cervantes,19.0,80.73,"Cultural Club, Literary Society"
+Ramya,18.0,86.52,"Literary Society, Cultural Club"
+Ryan Johnson,18.0,90.49,"Entrepreneurship Cell, Robotics, Sports Club"
+Mercedes Jones,20.0,79.55,Cultural Club
+Jason Morgan,21.0,70.11,"Entrepreneurship Cell, Cultural Club, Robotics"
+Jesse Mckay,21.0,77.13,"Entrepreneurship Cell, Literary Society"
+Pooja,20.0,98.41,"Sports Club, Cultural Club, Coding Club"
+Amanda Terrell,23.0,82.37,"Literary Society, Sports Club, Coding Club"
+Ravi,20.0,72.19,"Literary Society, Coding Club"
+Kimberly Acosta,22.0,75.72,"Entrepreneurship Cell, Sports Club, Coding Club"
+Keith Hall,18.0,68.42,"Cultural Club, Entrepreneurship Cell, Literary Society"
+Anita,20.0,78.01,Robotics
+Veronica Brewer,21.0,81.88,Cultural Club
+Joshua Terry,21.0,87.45,"Literary Society, Sports Club"
+Rakhi,18.0,75.04,"Cultural Club, Sports Club, Robotics"
+Siddharth,20.0,66.09,Robotics
+Sarah Hernandez,22.0,98.08,"Entrepreneurship Cell, Literary Society, Robotics"
+Donna Marshall,18.0,69.71,Literary Society
+Vikram,22.0,62.14,Sports Club
+Amit,22.0,89.83,"Coding Club, Robotics, Literary Society"
+Justin Torres,22.0,87.41,"Literary Society, Entrepreneurship Cell"
+Suresh,23.0,66.94,"Cultural Club, Coding Club"
+Monica Hall,18.0,71.56,"Entrepreneurship Cell, Sports Club, Cultural Club"
+Divya,19.0,89.12,"Sports Club, Coding Club, Cultural Club"
+Ravi,20.0,93.92,"Entrepreneurship Cell, Literary Society, Sports Club"
+Linda Dodson DVM,22.0,79.22,"Cultural Club, Entrepreneurship Cell"
+Amit,19.0,95.93,"Coding Club, Cultural Club"
+Julie Herrera,19.0,92.89,Sports Club
+Arjun,19.0,95.55,"Cultural Club, Coding Club"
+Ashley Sweeney,20.0,76.28,"Coding Club, Literary Society"
+Joseph Coleman,22.0,76.65,"Robotics, Entrepreneurship Cell"
+Anita,23.0,91.85,Literary Society
+Pooja,21.0,89.78,Sports Club
+Rakesh,21.0,79.94,"Robotics, Sports Club, Coding Club"
+Sonal,23.0,93.35,"Sports Club, Coding Club, Literary Society"
+Anil,19.0,92.45,"Cultural Club, Robotics, Entrepreneurship Cell"
+Ramya,23.0,96.35,"Entrepreneurship Cell, Literary Society"
+Gregory Fernandez,18.0,75.32,"Literary Society, Sports Club"
+Vikram,22.0,94.2,"Entrepreneurship Cell, Cultural Club, Sports Club"
+Siddharth,20.0,60.28,Robotics
