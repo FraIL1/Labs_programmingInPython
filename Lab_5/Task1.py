@@ -5,10 +5,9 @@ import matplotlib.pyplot as plt
 # создаем массив из 100 точек от 0 до 10
 x = np.linspace(0, 10, 100)  # np.linspace создает линейное пространство
 
-# Вычисление y и z
+# вычисляю y и z
 y = np.sin(x)
 z = np.cos(x)
-
 
 # строю графики
 plt.figure(figsize=(10, 6))  # создаю окно для графика
